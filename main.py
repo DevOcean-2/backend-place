@@ -4,10 +4,12 @@ main.py
 
 import logging
 import uuid
-from fastapi import FastAPI, APIRouter
+
+from fastapi import FastAPI
+from starlette.responses import Response
 from starlette_context import context
 from starlette_context.middleware import ContextMiddleware
-from starlette.responses import Response
+from routers import place
 
 logger = logging.getLogger(__name__)
 
@@ -54,15 +56,9 @@ app.add_middleware(ContextMiddleware)
 
 # TODO: Auth 추가
 
-# feed prefix 추가
-place_router = APIRouter(
-    prefix="/place",
-    tags=["Place"]
-)
 
-
-@place_router.get("", response_model=dict)
-async def get_feed_apis():
+@app.get("/place", response_model=dict)
+async def get_place_apis():
     """
     place 관련 모든 api 리스팅
     :return:
@@ -70,10 +66,15 @@ async def get_feed_apis():
     return {
         "message": "Welcome to the Balbalm Place API!",
         "endpoints": {
+            "GET /places": "Get place list nearby",
+            "GET /places/{place_id}": "Get a place info",
+            "GET /places/recommendation": "Get recommended place list",
+            "POST /places/favorites": "Add to my favorite place list",
+            "DELETE /places/favorites/{place_id}": "Delete a place from favorite place list",
+            "GET /places/favorites": "List my favorite places"
         }
     }
 
-# place router 에 상세 path 추가
 
-# app 에 추가
-app.include_router(place_router)
+# app 에 상세 router 추가
+app.include_router(place.router)
