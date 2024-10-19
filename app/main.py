@@ -6,6 +6,7 @@ import logging
 import os
 import uuid
 
+from app.database import db
 from fastapi import FastAPI, APIRouter
 from fastapi_jwt_auth import AuthJWT
 from pydantic import BaseModel
@@ -32,6 +33,9 @@ def get_config():
     """
     return Settings()
 
+
+# 테이블 생성 (만들 때 모델 import 하고 해야함)
+db.Base.metadata.create_all(bind=db.engine)
 
 # fastAPI app 생성
 app = FastAPI(
