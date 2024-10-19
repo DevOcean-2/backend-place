@@ -3,9 +3,12 @@ main.py
 """
 
 import logging
+import os
 import uuid
 
 from fastapi import FastAPI, APIRouter
+from fastapi_jwt_auth import AuthJWT
+from pydantic import BaseModel
 from starlette.responses import Response
 from starlette_context import context
 from starlette_context.middleware import ContextMiddleware
@@ -13,6 +16,22 @@ from starlette_context.middleware import ContextMiddleware
 from app.routers import place, recommendation, favorite
 
 logger = logging.getLogger(__name__)
+
+
+class Settings(BaseModel):
+    """
+    AuthJWT config setting
+    """
+    authjwt_secret_key: str = os.getenv("JWT_SECRET_KEY")
+
+
+@AuthJWT.load_config
+def get_config():
+    """
+    AuthJWT config
+    """
+    return Settings()
+
 
 # fastAPI app 생성
 app = FastAPI(
@@ -55,7 +74,6 @@ async def http_log(request, call_next):
 
 app.add_middleware(ContextMiddleware)
 
-# TODO: Auth 추가
 
 # place prefix 추가
 place_router = APIRouter(
