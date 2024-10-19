@@ -5,17 +5,18 @@ main.py
 import logging
 import uuid
 
-from fastapi import FastAPI
+from fastapi import FastAPI, APIRouter
 from starlette.responses import Response
 from starlette_context import context
 from starlette_context.middleware import ContextMiddleware
-from routers import place
+
+from app.routers import place, recommendation, favorite
 
 logger = logging.getLogger(__name__)
 
 # fastAPI app 생성
 app = FastAPI(
-    title="Balbalm Feed Backend",
+    title="Balbalm Place Backend",
     description="backend for balbalm place service",
     version="1.0-beta",
     openapi_url="/openapi.json",
@@ -56,25 +57,16 @@ app.add_middleware(ContextMiddleware)
 
 # TODO: Auth 추가
 
-
-@app.get("/place", response_model=dict)
-async def get_place_apis():
-    """
-    place 관련 모든 api 리스팅
-    :return:
-    """
-    return {
-        "message": "Welcome to the Balbalm Place API!",
-        "endpoints": {
-            "GET /places": "Get place list nearby",
-            "GET /places/{place_id}": "Get a place info",
-            "GET /places/recommendation": "Get recommended place list",
-            "POST /places/favorites": "Add to my favorite place list",
-            "DELETE /places/favorites/{place_id}": "Delete a place from favorite place list",
-            "GET /places/favorites": "List my favorite places"
-        }
-    }
+# place prefix 추가
+place_router = APIRouter(
+    prefix="/place",
+    tags=["Place"]
+)
 
 
 # app 에 상세 router 추가
-app.include_router(place.router)
+place_router.include_router(place.router)
+place_router.include_router(recommendation.router)
+place_router.include_router(favorite.router)
+
+app.include_router(place_router)
