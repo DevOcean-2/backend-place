@@ -9,8 +9,8 @@ from fastapi import HTTPException
 from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
-from sshtunnel import SSHTunnelForwarder, BaseSSHTunnelForwarderError
 from sqlalchemy import create_engine
+from sshtunnel import SSHTunnelForwarder, BaseSSHTunnelForwarderError
 
 load_dotenv()
 

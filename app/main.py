@@ -6,7 +6,6 @@ import logging
 import os
 import uuid
 
-from app.database import db
 from fastapi import FastAPI, APIRouter
 from fastapi_jwt_auth import AuthJWT
 from pydantic import BaseModel
@@ -14,6 +13,7 @@ from starlette.responses import Response
 from starlette_context import context
 from starlette_context.middleware import ContextMiddleware
 
+from app.database import db
 from app.routers import place, recommendation, favorite
 
 logger = logging.getLogger(__name__)

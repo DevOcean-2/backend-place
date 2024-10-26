@@ -16,7 +16,7 @@ router = APIRouter(
 
 
 @router.get("", response_model=List[PlaceResponse])
-async def list_places(category:str, location:str, offset: int, token: AuthJWT = Depends()):
+async def list_places(category: str, location: str, offset: int, token: AuthJWT = Depends()):
     """
     조건에 맞는 장소 리스팅
     :param category: 리스팅할 장소의 카테고리
