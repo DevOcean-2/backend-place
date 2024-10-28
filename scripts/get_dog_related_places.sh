@@ -14,12 +14,7 @@ for PAGE in $(seq 1 45); do
         -H "Authorization: KakaoAK $REST_API_KEY" \
         --data-urlencode "query=$QUERY")
 
-    if [ "$FIRST_PAGE" = true ]; then
-        echo "$RESPONSE" | jq -c '.documents[]' >> temp.json
-        FIRST_PAGE=false
-    else
-        echo "$RESPONSE" | jq -c '.documents[]' | sed 's/^/,/' >> temp.json
-    fi
+    echo "$RESPONSE" | jq -c '.documents[]' | sed 's/^/,/' >> temp.json
 done
 sed -i '' '3s/^,//' temp.json
 
