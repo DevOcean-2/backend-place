@@ -24,7 +24,7 @@ class SearchKeywordParams:
     query: str
     x: str
     y: str
-    radius: int = 500
+    radius: int = 20000
     sort: SearchResultSortType = SearchResultSortType.SORT_TYPE_ACCURACY
 
 

@@ -14,7 +14,7 @@ from starlette_context import context
 from starlette_context.middleware import ContextMiddleware
 
 from app.database import db
-from app.routers import place, recommendation, favorite
+from app.routers import place, favorite
 
 logger = logging.getLogger(__name__)
 
@@ -59,7 +59,7 @@ async def http_log(request, call_next):
     response = await call_next(request)
     response_body = b''
     log_uuid = str(uuid.uuid1())[:8]
-    # Combine async response chunk
+
     async for chunk in response.body_iterator:
         response_body += chunk
     logger.info("Log ID : %s - Request URL : %s %s",
@@ -88,7 +88,6 @@ place_router = APIRouter(
 
 # app 에 상세 router 추가
 place_router.include_router(place.router)
-place_router.include_router(recommendation.router)
 place_router.include_router(favorite.router)
 
 app.include_router(place_router)

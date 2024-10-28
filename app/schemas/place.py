@@ -1,9 +1,20 @@
 """
 Place schema
 """
+from datetime import datetime
+from enum import Enum
 from typing import Optional, List
 
 from pydantic import BaseModel, Field, HttpUrl
+
+
+class PlaceCategory(Enum):
+    RESTAURANT = "restaurant"
+    CAFE = "cafe"
+    BAKERY = "bakery"
+    HOSPITAL = "hospital"
+    TRAVEL = "travel"
+    ETC = "etc"
 
 
 class DailyOpeningHours(BaseModel):
@@ -35,13 +46,13 @@ class BusinessHours(BaseModel):
         = Field(None, examples=[{"open_time": "휴무", "close_time": "휴무", "is_open": False}])
 
 
-class Contact(BaseModel):
-    """
-    연락처 정보
-    """
-    phone: str = Field(..., example="010-1234-1234")
-    site: HttpUrl = Field(..., example="sk.co.kr")
-    email: str = Field(..., example="example@example.com")
+# class Contact(BaseModel):
+#     """
+#     연락처 정보
+#     """
+#     phone: str = Field(..., example="010-1234-1234")
+#     site: HttpUrl = Field(..., example="sk.co.kr")
+#     email: str = Field(..., example="example@example.com")
 
 
 class PlaceResponse(BaseModel):
@@ -51,8 +62,10 @@ class PlaceResponse(BaseModel):
     id: str = Field(..., example="123123")
     name: str = Field(..., example="강아지 병원")
     address: str = Field(..., example="경기 성남시 분당구 대왕판교로 123")
-    category: List[str] = Field(..., example=["병원", "약국"])
+    category: List[PlaceCategory] = Field(..., example=["음식점", "카페"])
     distance: int = Field(..., example=10)
+    business_hours: BusinessHours
+    favorite_add_time: Optional[datetime] = Field(..., example=datetime.now())
     images: Optional[List[HttpUrl]] \
         = Field(None, example=[
             "https://test.s3.amazonaws.com/test/test.jpg",
@@ -60,10 +73,10 @@ class PlaceResponse(BaseModel):
             "https://test.s3.amazonaws.com/test/test3.jpg",])
 
 
-class PlaceInfoResponse(PlaceResponse):
-    """
-    장소 상세 리스폰스 모델
-    """
-    business_hours: BusinessHours
-    is_certified: bool = Field(False, example=True)
-    contacts: Contact
+# class PlaceInfoResponse(PlaceResponse):
+#     """
+#     장소 상세 리스폰스 모델
+#     """
+#     business_hours: BusinessHours
+#     is_certified: bool = Field(False, example=True)
+#     contacts: Contact
