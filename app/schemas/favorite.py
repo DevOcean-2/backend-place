@@ -1,3 +1,6 @@
+"""
+즐겨찾기 스키마
+"""
 from pydantic import BaseModel
 
 
