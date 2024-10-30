@@ -6,6 +6,8 @@ from enum import Enum
 
 import requests
 
+from pydantic import BaseModel
+
 KAKAO_API_KEY = os.getenv('KAKAO_API_KEY')
 
 
@@ -13,11 +15,11 @@ class SearchResultSortType(Enum):
     """
     장소 키워드 검색 시 정렬 방법
     """
-    SORT_TYPE_ACCURACY="accuracy"
-    SORT_TYPE_DIST="distance"
+    SORT_TYPE_ACCURACY = "accuracy"
+    SORT_TYPE_DIST = "distance"
 
 
-class SearchKeywordParams:
+class SearchKeywordParams(BaseModel):
     """
     장소 검색 키워드 파라미터
     """
@@ -46,16 +48,17 @@ def get_wtm_coordinates(x: float, y: float):
     return wtm_x, wtm_y
 
 
-def get_places_with_keyword(params: SearchKeywordParams):
+def get_places_with_keyword(params: SearchKeywordParams, page: int):
     """
     키워드 기반 장소 리스팅
     :param params:
+    :param page: 1~45 페이지
     :return:
     """
     response = requests.get(
         "https://dapi.kakao.com/v2/local/search/keyword.json",
-        params={"query": params.query, "x": params.x,
-                "y": params.y, "radius": params.radius, "sort": params.sort},
+        params={"query": params.query, "x": params.x, "y": params.y,
+                "radius": params.radius, "sort": params.sort.value, "page": page},
         headers={"Authorization": "KakaoAK " + KAKAO_API_KEY},
         timeout=5
     ).json()

@@ -14,6 +14,7 @@ class Place(Base):
     __tablename__ = "places"
 
     id = Column(Integer, primary_key=True, index=True)
+    name = Column(String, nullable=False)
     address_name = Column(String, nullable=False)
     category_name = Column(String, nullable=False)
     latitude = Column(Float, nullable=False)

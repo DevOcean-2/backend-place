@@ -7,6 +7,8 @@ from typing import Optional, List
 
 from pydantic import BaseModel, Field, HttpUrl
 
+from app.utils.kakaomap import SearchResultSortType
+
 
 class PlaceCategory(Enum):
     """
@@ -18,6 +20,25 @@ class PlaceCategory(Enum):
     HOSPITAL = "hospital"
     TRAVEL = "travel"
     ETC = "etc"
+
+
+class PlaceList(BaseModel):
+    """
+    장소 리스팅 리퀘스트 모델
+    """
+    latitude: float
+    longitude: float
+    category: Optional[PlaceCategory] = Field(None)
+
+
+class PlaceKeywordList(BaseModel):
+    """
+    키워드 기반 장소 리퀘스트 모델
+    """
+    latitude: float
+    longitude: float
+    keyword: str
+    sort_by: SearchResultSortType = Field(SearchResultSortType.SORT_TYPE_ACCURACY)
 
 
 class PlaceResponse(BaseModel):
