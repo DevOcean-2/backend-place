@@ -586,47 +586,5 @@
     "road_address_name": "서울 서초구 바우뫼로 213",
     "x": "127.04175341304",
     "y": "37.4809892600948"
-  },
-  {
-    "address_name": "서울 강남구 논현동 265-23",
-    "category_group_code": "CE7",
-    "category_group_name": "카페",
-    "category_name": "cafe",
-    "distance": "13319",
-    "id": "123226729",
-    "phone": "010-5773-0515",
-    "place_name": "전설의강아지",
-    "place_url": "http://place.map.kakao.com/123226729",
-    "road_address_name": "서울 강남구 선릉로115길 22",
-    "x": "127.041159906126",
-    "y": "37.5120111255803"
-  },
-  {
-    "address_name": "경기 용인시 수지구 죽전동 876-6",
-    "category_group_code": "CE7",
-    "category_group_name": "카페",
-    "category_name": "cafe",
-    "distance": "7766",
-    "id": "1544283263",
-    "phone": "031-261-0969",
-    "place_name": "강아지공간",
-    "place_url": "http://place.map.kakao.com/1544283263",
-    "road_address_name": "경기 용인시 수지구 용구대로 2769",
-    "x": "127.108669184115",
-    "y": "37.332856831669"
-  },
-  {
-    "address_name": "서울 강남구 논현동 181-12",
-    "category_group_code": "CE7",
-    "category_group_name": "카페",
-    "category_name": "cafe",
-    "distance": "13466",
-    "id": "27290897",
-    "phone": "02-548-0888",
-    "place_name": "봉브라더스 강아지카페",
-    "place_url": "http://place.map.kakao.com/27290897",
-    "road_address_name": "서울 강남구 강남대로118길 39",
-    "x": "127.026252930474",
-    "y": "37.507333759393"
   }
 ]

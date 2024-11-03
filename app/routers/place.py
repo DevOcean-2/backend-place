@@ -31,7 +31,7 @@ async def list_places(
     :param token:
     :return:
     """
-    token.jwt_required()
+    # token.jwt_required()
     list_req = PlaceList(
         latitude=latitude,
         longitude=longitude,

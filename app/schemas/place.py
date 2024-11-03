@@ -17,9 +17,8 @@ class PlaceCategory(Enum):
     """
     RESTAURANT = "restaurant"
     CAFE = "cafe"
-    BAKERY = "bakery"
     HOSPITAL = "hospital"
-    TRAVEL = "travel"
+    AMUSEMENT = "amusement"
     ETC = "etc"
 
 
