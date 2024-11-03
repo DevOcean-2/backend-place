@@ -1,14 +1,12 @@
 """
 장소 관련 API
 """
-from typing import List
+from typing import List, Optional
 
-from fastapi import APIRouter, Depends
+from fastapi import APIRouter, Depends, Query
 from fastapi_jwt_auth import AuthJWT
-from sqlalchemy.orm import Session
 
-from app.database.db import get_db
-from app.schemas.place import PlaceResponse, PlaceList, PlaceKeywordList
+from app.schemas.place import PlaceResponse, PlaceList
 from app.services import place as place_service
 
 router = APIRouter(
@@ -19,29 +17,39 @@ router = APIRouter(
 
 
 @router.get("", response_model=List[PlaceResponse])
-async def list_places(list_req: PlaceList,
-                      token: AuthJWT = Depends(), db: Session = Depends(get_db)):
+async def list_places(
+        latitude: float = Query(..., description="위도"),
+        longitude: float = Query(..., description="경도"),
+        category: Optional[str] = Query(None, description="선택적 카테고리 필터"),
+        token: AuthJWT = Depends()
+    ):
     """
     조건에 맞는 장소 리스팅
-    :param list_req:
+    :param latitude:
+    :param longitude:
+    :param category:
     :param token:
-    :param db:
     :return:
     """
     token.jwt_required()
+    list_req = PlaceList(
+        latitude=latitude,
+        longitude=longitude,
+        category=category
+    )
 
-    return place_service.list_places(list_req, db)
+    return place_service.list_places(list_req)
 
 
-@router.get("/keyword/{keyword}", response_model=List[PlaceResponse])
-async def list_places_by_keyword(list_req: PlaceKeywordList,
-                                 token: AuthJWT = Depends(), db: Session = Depends(get_db)):
-    """
-    :param list_req:
-    :param token:
-    :param db:
-    :return:
-    """
-    token.jwt_required()
-
-    return place_service.list_places_by_keyword(list_req, db)
+# @router.get("/keyword/{keyword}", response_model=List[PlaceResponse])
+# async def list_places_by_keyword(list_req: PlaceKeywordList,
+#                                  token: AuthJWT = Depends(), db: Session = Depends(get_db)):
+#     """
+#     :param list_req:
+#     :param token:
+#     :param db:
+#     :return:
+#     """
+#     token.jwt_required()
+#
+#     return place_service.list_places_by_keyword(list_req, db)

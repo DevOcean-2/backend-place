@@ -9,15 +9,11 @@ import uuid
 from fastapi import FastAPI, APIRouter
 from fastapi_jwt_auth import AuthJWT
 from pydantic import BaseModel
-# from sqlalchemy import MetaData, Table, inspect
 from starlette_context import context
 from starlette_context.middleware import ContextMiddleware
 from starlette.responses import Response
 
-from app.database import db
 from app.routers import place, favorite
-# from app.models.place import *
-# from app.models.favorite import *
 
 logger = logging.getLogger(__name__)
 
@@ -36,18 +32,6 @@ def get_config():
     """
     return Settings()
 
-
-# 테이블 삭제용
-# metadata = MetaData()
-# table = Table('favorite_places', metadata, autoload_with=db.engine)
-# table.drop(db.engine)
-
-# 테이블 생성 (만들 때 모델 import 하고 해야함)
-db.Base.metadata.create_all(bind=db.engine)
-
-# 테이블 확인용
-# inspector = inspect(db.engine)
-# print(inspector.get_columns("favorite_places"))
 
 # fastAPI app 생성
 app = FastAPI(
