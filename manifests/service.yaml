@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: balbalm-place
+  namespace: devocean
+spec:
+  internalTrafficPolicy: Cluster
+  ipFamilies:
+  - IPv4
+  ipFamilyPolicy: SingleStack
+  ports:
+  - port: 8000
+    protocol: TCP
+    targetPort: 8000
+  selector:
+    app: balbalm-place
+  sessionAffinity: None
+  type: ClusterIP
