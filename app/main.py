@@ -38,7 +38,9 @@ app = FastAPI(
     title="Balbalm Place Backend",
     description="backend for balbalm place service",
     version="1.0-beta",
-    openapi_url="/openapi.json",
+    openapi_url="/place/openapi.json",
+    docs_url="/place/docs",
+    redoc_url="/place/redoc",
 )
 
 app.logger = logger
