@@ -26,6 +26,47 @@ awsauth = AWS4Auth(credentials.access_key,
 
 OPENSEARCH_URL = os.getenv("OPENSEARCH_URL")
 
+keyword_to_category = {
+    "카페": "cafe",
+    "까페": "cafe",
+    "커피": "cafe",
+    "레스토랑": "restaurant",
+    "식당": "restaurant",
+    "음식": "restaurant",
+    "병원": "hospital",
+    "약국": "hospital",
+    "진찰": "hospital",
+    "호텔": "culture",
+    "숙소": "culture",
+    "놀이": "culture",
+    "공원": "culture"
+}
+
+address_keywords = {
+    "이매": "분당",
+    "판교": "분당",
+    "정자": "분당",
+    "율동": "분당",
+    "서현": "분당",
+    "수내": "분당",
+    "수정": "성남",
+    "중원": "성남",
+    "분당": "성남",
+    "강남": "강남",
+    "선릉": "강남",
+    "삼성": "강남",
+    "논현": "강남",
+    "서초": "서초",
+    "양재": "서초",
+    "송파": "송파",
+    "오금": "송파",
+    "가락": "송파",
+    "한남": "용산",
+    "수지": "용인",
+    "반월": "화성",
+    "능평": "광주",
+}
+
 
 def create_index(index: str, settings: dict = None):
     """

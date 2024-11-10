@@ -8,7 +8,13 @@ from typing import Optional, List
 from pydantic import BaseModel, Field, HttpUrl
 from fastapi import Query
 
-from app.utils.kakaomap import SearchResultSortType
+
+class PlaceListSortType(Enum):
+    """
+    장소 키워드 검색 시 정렬 방법
+    """
+    SORT_TYPE_ACCURACY = "accuracy"
+    SORT_TYPE_DIST = "distance"
 
 
 class PlaceCategory(Enum):
@@ -18,7 +24,7 @@ class PlaceCategory(Enum):
     RESTAURANT = "restaurant"
     CAFE = "cafe"
     HOSPITAL = "hospital"
-    AMUSEMENT = "amusement"
+    CULTURE = "culture"
     ETC = "etc"
 
 
@@ -58,6 +64,7 @@ class PlaceList(BaseModel):
     latitude: float = Query(..., description="위도")
     longitude: float = Query(..., description="경도")
     category: Optional[PlaceCategory] = Query(None, description="카테고리")
+    sort_by: Optional[PlaceListSortType] = Query(PlaceListSortType.SORT_TYPE_ACCURACY)
 
 
 class PlaceKeywordList(BaseModel):
@@ -67,7 +74,7 @@ class PlaceKeywordList(BaseModel):
     latitude: float
     longitude: float
     keyword: str
-    sort_by: SearchResultSortType = Field(SearchResultSortType.SORT_TYPE_ACCURACY)
+    sort_by: Optional[PlaceListSortType] = Query(PlaceListSortType.SORT_TYPE_ACCURACY)
 
 
 class PlaceResponse(BaseModel):
@@ -76,7 +83,8 @@ class PlaceResponse(BaseModel):
     """
     place_id: str = Field(...)
     name: str = Field(..., example="강아지 병원")
-    address: str = Field(..., example="경기 성남시 분당구 대왕판교로 123")
+    address: str = Field(..., example="서울 서초구 매헌로16길 24")
+    road_address: str = Field(..., example="경기 성남시 분당구 대왕판교로 123")
     category: PlaceCategory = Field(..., example=["restaurant"])
     distance: int = Field(..., example=10)
     image_urls: Optional[List[HttpUrl]] \

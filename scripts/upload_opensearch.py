@@ -22,7 +22,8 @@ with open('./scripts/place.json', 'r', encoding='utf-8') as file:
 for place in places_data:
     document = {
         "name": place["place_name"],
-        "address": place["road_address_name"],
+        "road_address": place["road_address_name"],
+        "address": place["address_name"],
         "category": place["category_name"],
         "location": {
             "lat": float(place["y"]),
