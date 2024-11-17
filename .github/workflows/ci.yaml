@@ -30,6 +30,7 @@ jobs:
           --build-arg OPENSEARCH_URL=${{ vars.OPENSEARCH_URL }} \
           --build-arg AWS_ACCESS_KEY_ID=${{ secrets.OPENSEARCH_ACCESS_KEY_ID }} \
           --build-arg AWS_SECRET_ACCESS_KEY=${{ secrets.OPENSEARCH_SECRET_ACCESS_KEY }} \
+          --build-arg DATABASE_URL=${{ secrets.DATABASE_URL }} \
           -t 147997130241.dkr.ecr.ap-northeast-2.amazonaws.com/balbalm/backend-place:latest
 
       - name: Configure AWS credentials
