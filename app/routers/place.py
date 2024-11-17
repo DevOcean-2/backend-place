@@ -60,7 +60,7 @@ async def list_places_by_keyword(
     :param token:
     :return:
     """
-    # token.jwt_required()
+    token.jwt_required()
 
     list_req = PlaceKeywordList(
         latitude=latitude,
