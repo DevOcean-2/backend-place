@@ -24,7 +24,7 @@ class Settings(BaseModel):
     """
     AuthJWT config setting
     """
-    authjwt_secret_key: str = os.getenv("JWT_SECRET_KEY")
+    authjwt_secret_key: str = os.getenv("JWT_SECRET_KEY", "test_token")
 
 
 @AuthJWT.load_config

@@ -6,6 +6,7 @@ from typing import List
 
 from sqlalchemy.orm import Session
 from sqlalchemy.exc import IntegrityError
+from fastapi import HTTPException
 
 from app.database.opensearch import get_document
 from app.schemas.favorite import (FavoriteListResponse,
@@ -22,7 +23,16 @@ def add_favorite_place(user_id: str, add_req: FavoriteAdd, db: Session) -> None:
     :param db:
     :return:
     """
-    place = get_document("places", add_req.place_id)
+    place = get_document("places", add_req.place_id)['_source']
+
+    existing_favorite = db.query(FavoriteTable).filter(
+        FavoriteTable.user_id == user_id,
+        FavoriteTable.place_id == add_req.place_id,
+        FavoriteTable.list_name == add_req.favorite_list_name
+    ).first()
+    if existing_favorite:
+        raise HTTPException(status_code=409, detail="Already exists")
+
     favorite_place = FavoriteTable(
         user_id=user_id,
         list_name=add_req.favorite_list_name,
@@ -32,16 +42,16 @@ def add_favorite_place(user_id: str, add_req: FavoriteAdd, db: Session) -> None:
         address=place['address'],
         road_address=place['road_address'],
         category=place['category'],
-        registerd_time=datetime.now()
+        registered_time=datetime.now()
     )
 
     try:
         db.add(favorite_place)
         db.commit()
         db.refresh(favorite_place)
-    except IntegrityError:
+    except IntegrityError as exc:
         db.rollback()
-        raise
+        raise HTTPException(status_code=500, detail="DB error") from exc
 
 
 def list_favorite_places(favorite_list_req: FavoriteList, db: Session) \

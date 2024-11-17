@@ -8,8 +8,7 @@ from fastapi_jwt_auth import AuthJWT
 from sqlalchemy.orm import Session
 
 from app.database.postgres import get_db
-from app.schemas.place import PlaceResponse
-from app.schemas.favorite import FavoriteAdd, FavoriteList, FavoriteDelete
+from app.schemas.favorite import FavoriteAdd, FavoriteList, FavoriteDelete, FavoriteListResponse
 from app.utils.token import get_social_id
 from app.services import favorite as favorite_service
 
@@ -20,7 +19,9 @@ router = APIRouter(
 )
 
 
-@router.post("")
+@router.post("", responses={
+    409: {"description": "Already exists"},
+    500: {"description": "DB error"}})
 async def add_favorite_place(
         add_req: FavoriteAdd,
         token: AuthJWT = Depends(),
@@ -40,7 +41,7 @@ async def add_favorite_place(
     return {"message": "Successfully added a place"}
 
 
-@router.get("", response_model=List[PlaceResponse])
+@router.get("", response_model=List[FavoriteListResponse])
 async def list_favorite_places(
         latitude: float = Query(..., description="위도"),
         longitude: float = Query(..., description="경도"),
@@ -68,18 +69,26 @@ async def list_favorite_places(
 
 @router.delete("")
 async def delete_favorite_place(
-        delete_req: FavoriteDelete,
+        favorite_list_name: str = Query(..., description=""),
+        place_ids: List[str] = Query(..., description=""),
         token: AuthJWT = Depends(),
         db: Session = Depends(get_db)):
     """
     장소 즐겨찾기 삭제
-    :param delete_req:
+    :param favorite_list_name:
+    :param place_ids:
     :param token: 인증용 토큰
     :param db:
     :return:
     """
     token.jwt_required()
     user_id = get_social_id(token)
+
+    print(user_id)
+    delete_req = FavoriteDelete(
+        favorite_list_name=favorite_list_name,
+        place_ids=place_ids
+    )
 
     favorite_service.delete_favorite_place(user_id, delete_req, db)
 
