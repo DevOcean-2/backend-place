@@ -95,4 +95,3 @@ class PlaceResponse(BaseModel):
     opening_hours: Optional[BusinessHours] = Field(None)
     phone_number: Optional[str] = Field(None, example="010-1234-5678")
     website_url: Optional[str] = Field(None, example="http://place.map.kakao.com/1459590315")
-    favorite_add_time: Optional[datetime] = Field(None, example=datetime.now())
