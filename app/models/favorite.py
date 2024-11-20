@@ -18,6 +18,7 @@ class Favorite(Base):
     user_id = Column(String, index=True, nullable=False)
     list_name = Column(String, nullable=False)
     place_id = Column(String, nullable=False)
+    place_name = Column(String, nullable=False)
     latitude = Column(Float, nullable=False)
     longitude = Column(Float, nullable=False)
     address = Column(String, nullable=False)

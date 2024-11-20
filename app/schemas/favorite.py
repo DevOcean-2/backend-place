@@ -38,6 +38,7 @@ class FavoritePlaceDetail(BaseModel):
     즐겨찾기 장소 디테일
     """
     place_id: str
+    place_name: str
     distance: int
     address: str
     road_address: str

@@ -37,6 +37,7 @@ def add_favorite_place(user_id: str, add_req: FavoriteAdd, db: Session) -> None:
         user_id=user_id,
         list_name=add_req.favorite_list_name,
         place_id=add_req.place_id,
+        place_name=place['name'],
         latitude=place['location']['lat'],
         longitude=place['location']['lon'],
         address=place['address'],
@@ -75,6 +76,7 @@ def list_favorite_places(favorite_list_req: FavoriteList, db: Session) \
         favorite_places[favorite.list_name].append(
             FavoritePlaceDetail(
                 place_id=favorite.place_id,
+                place_name=favorite.place_name,
                 address=favorite.address,
                 distance=calculate_place_distance(lat, lon, favorite.latitude, favorite.longitude),
                 road_address=favorite.road_address,
