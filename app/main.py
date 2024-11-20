@@ -91,6 +91,14 @@ async def http_log(request, call_next):
 app.add_middleware(ContextMiddleware)
 
 
+@app.get("/", tags=["Health Check"])
+async def health_check():
+    """
+    Health Check
+    """
+    return {"status": "ok"}
+
+
 # place prefix 추가
 place_router = APIRouter(
     prefix="/place",
