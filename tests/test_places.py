@@ -23,7 +23,7 @@ def test_list_places(my_token):
 
 
 def test_list_places_by_keyword(my_token):
-    keyword = "분당_카페"
+    keyword = "분당 카페"
     encoded_keyword = urllib.parse.quote(keyword)
     response = client.get(
         f"http://127.0.0.1:8000/place/places/search/{encoded_keyword}",
@@ -34,6 +34,5 @@ def test_list_places_by_keyword(my_token):
         },
         headers={"Authorization": f"Bearer {my_token}"}
     )
-    print(response.json())
     assert response.status_code == 200
     print(json.dumps(response.json(), indent=4, ensure_ascii=False))

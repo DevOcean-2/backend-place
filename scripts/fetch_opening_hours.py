@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
+
 def get_opening_hours(driver, place_url):
     try:
         print(f"\nFetching URL: {place_url}")
@@ -62,6 +63,7 @@ def get_opening_hours(driver, place_url):
     except Exception as e:
         print(f"Error fetching opening hours: {e}")
         return []
+
 
 def get_images(driver, place_url):
     try:

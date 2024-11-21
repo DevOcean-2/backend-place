@@ -12,7 +12,7 @@ def test_add_favorite_place(my_token):
     response = client.post(
         "http://127.0.0.1:8000/place/favorites",
         json={
-            "place_id": "zBt-FZMBRnlUHp69vJqx",
+            "place_id": "1877821680",
             "favorite_list_name": "즐겨찾기 테스트 리스트"
         },
         headers={"Authorization": f"Bearer {my_token}"}
@@ -39,7 +39,7 @@ def test_delete_favorite_place(my_token):
     response = client.delete(
         "https://127.0.0.1:8000/place/favorites",
         params={
-            "place_ids": ["zBt-FZMBRnlUHp69vJqx",],
+            "place_ids": ["1877821680"],
             "favorite_list_name": "즐겨찾기 테스트 리스트"
         },
         headers={"Authorization": f"Bearer {my_token}"}

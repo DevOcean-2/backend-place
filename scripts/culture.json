@@ -3,7 +3,7 @@
     "address_name": "서울 강남구 삼성동 9-16",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "13506",
     "id": "1143405237",
     "phone": "070-8987-3000",
@@ -11,13 +11,21 @@
     "place_url": "http://place.map.kakao.com/1143405237",
     "road_address_name": "서울 강남구 선릉로122길 4",
     "x": "127.042933712938",
-    "y": "37.5144702351781"
+    "y": "37.5144702351781",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FF2556613F46D425081A549317E877230",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F3E2CE1723E0D42C999D509CC077C2C95",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F62171D31AB48484EB2900FA65D94F6CD",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F4CE8F82E1D9540F293C2DDDB1F815B79",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F9D0C8C40D55044E4A2FC1A9A45D73E4D"
+    ]
   },
   {
     "address_name": "경기 성남시 수정구 수진동 4690-1",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "4229",
     "id": "1173824518",
     "phone": "",
@@ -25,13 +33,17 @@
     "place_url": "http://place.map.kakao.com/1173824518",
     "road_address_name": "",
     "x": "127.120172088097",
-    "y": "37.4383681247767"
+    "y": "37.4383681247767",
+    "opening_hours": [],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
   },
   {
     "address_name": "경기 용인시 수지구 풍덕천동 705",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "8617",
     "id": "1206487525",
     "phone": "010-3131-5773",
@@ -39,27 +51,23 @@
     "place_url": "http://place.map.kakao.com/1206487525",
     "road_address_name": "경기 용인시 수지구 정평로 140",
     "x": "127.09573732826192",
-    "y": "37.32530203739012"
-  },
-  {
-    "address_name": "경기 화성시 반월동 359-8",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "culture",
-    "distance": "19487",
-    "id": "1231986097",
-    "phone": "031-203-5950",
-    "place_name": "딩디리바바",
-    "place_url": "http://place.map.kakao.com/1231986097",
-    "road_address_name": "경기 화성시 삼성1로6길 29-9",
-    "x": "127.072815991211",
-    "y": "37.2288160798154"
+    "y": "37.32530203739012",
+    "opening_hours": [
+      "월~금  07:30 ~ 19:30"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F700AD1EE074D4874AF130819947AD7A4",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FF768ED1A22504BC6B34A9346CCBFAF1D",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F48B0FC39367D40CA93D809EA0421BF50",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FF4E1BDA4B5024C85B356C6A32CE9DE73",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FAA40A8F7A7554B47B38F6CD8D54C3880"
+    ]
   },
   {
     "address_name": "서울 서초구 양재동 205-1",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "9282",
     "id": "124259468",
     "phone": "010-7925-0787",
@@ -67,13 +75,24 @@
     "place_url": "http://place.map.kakao.com/124259468",
     "road_address_name": "서울 서초구 매헌로16길 24",
     "x": "127.035659380751",
-    "y": "37.4666138385311"
+    "y": "37.4666138385311",
+    "opening_hours": [
+      "매일  10:00 ~ 18:00",
+      "매일 휴게시간  13:30 ~ 14:30"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F31015ADB3EC34B51B21AA6846FBAB8D8",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F6F4E4C8D1D634CD99C4F104BA1043AAC",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F2C3984910F794C368021EA02A8D34083",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F76A422DEC3C04DD29B5B5E79C19A7EA5",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FD53186F87E2B4870AA0874AAF0F36BAA"
+    ]
   },
   {
     "address_name": "서울 서초구 양재동 236",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "9824",
     "id": "13763594",
     "phone": "",
@@ -81,13 +100,21 @@
     "place_url": "http://place.map.kakao.com/13763594",
     "road_address_name": "",
     "x": "127.033213037243",
-    "y": "37.4713331451445"
+    "y": "37.4713331451445",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FTFUq1%2FbtsFQvNC2aD%2FTDfLkhjuPI88twlDptm53K%2Fimg.webp",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F850d33b7bf31b23a952a95faf80fd7d3ece6ddcd%3Foriginal",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMDNfMjY4%2FMDAxNzMwNjE5MzIzNzkw.1OsCD-UBfQzqrCodJkcjZu33O2msEh6-mbd8yZABik8g.57KKI1l41WrNTgjh4QSbbD12yIFL4JVFGMxskYMC8zkg.JPEG%2Foutput_2494924066.jpg%3Ftype%3Dw773",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMTBfMTQ0%2FMDAxNzI4NTEyOTE0ODg1.EHI2f1mrwSwpQ1xpDASriFWHvUkzlhqGoms47t7UBqAg.diuVKzg1qJ8UOH27jROdHGZSPIRiwqKTVIGRuJ2zA9Ig.JPEG%2FIMG_5775.jpg%3Ftype%3Dw773",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMTBfMTU0%2FMDAxNzI4NTEyOTE1OTMz.ANlsh8Lm4P9QohPA-RM09TSmgqu_gULmwkYII_vmhegg.LxIvenBhu2FiOqsYG8XGs8RYHFxu-FlWl--2VrP7mq0g.JPEG%2FIMG_5756.jpg%3Ftype%3Dw773"
+    ]
   },
   {
     "address_name": "경기 성남시 중원구 성남동 1759",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "3436",
     "id": "1434701555",
     "phone": "",
@@ -95,13 +122,17 @@
     "place_url": "http://place.map.kakao.com/1434701555",
     "road_address_name": "",
     "x": "127.118488452093",
-    "y": "37.4312103546639"
+    "y": "37.4312103546639",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtIKvX%2FbtsJ26872K4%2FRHVech6YYPXNfrbnbt36K0%2Fimg.png"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 이매동 251-2",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "2490",
     "id": "1473959662",
     "phone": "010-9055-9992",
@@ -109,13 +140,24 @@
     "place_url": "http://place.map.kakao.com/1473959662",
     "road_address_name": "경기 성남시 분당구 이매로 80",
     "x": "127.129191901956",
-    "y": "37.3938879491183"
+    "y": "37.3938879491183",
+    "opening_hours": [
+      "월~금  08:00 ~ 20:00",
+      "토  10:00 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F1F3DF8B203EE40E287CD1912BFEE12FA",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2FBD73FA1E812D4B86A7B8CC83DB34A80F",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F3EF15832B13342DC92E3384982B97AA1",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F552D046103294A2B875EEF36B53B1EF7",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F79BE81061340447680E5D40891518AF6"
+    ]
   },
   {
     "address_name": "서울 송파구 오금동 120-31",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "11712",
     "id": "1490597937",
     "phone": "070-4912-3100",
@@ -123,13 +165,24 @@
     "place_url": "http://place.map.kakao.com/1490597937",
     "road_address_name": "서울 송파구 동남로 326",
     "x": "127.139025675268",
-    "y": "37.504332005551"
+    "y": "37.504332005551",
+    "opening_hours": [
+      "매일  09:00 ~ 20:00",
+      "공휴일 09:00 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FF5872B236CB54B9DADEB45675F884A08",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FAB5ACD62000E40BDB60F5A13187D5A15",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FCF3B3A9D17D5409988924634213E29E9",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F5C72A098DC3145E5B3A1D83E8D7594CC",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FCFEB1E0D648C4218AEBEE5A4949FF521"
+    ]
   },
   {
     "address_name": "경기 광주시 능평동 452",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "7602",
     "id": "1502518469",
     "phone": "010-7327-3426",
@@ -137,13 +190,17 @@
     "place_url": "http://place.map.kakao.com/1502518469",
     "road_address_name": "경기 광주시 능평로30번길 4-1",
     "x": "127.164515404813",
-    "y": "37.3546711460808"
+    "y": "37.3546711460808",
+    "opening_hours": [],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 판교동 564-1",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "1274",
     "id": "1557635222",
     "phone": "0507-1375-8001",
@@ -151,13 +208,24 @@
     "place_url": "http://place.map.kakao.com/1557635222",
     "road_address_name": "경기 성남시 분당구 서판교로58번길 6-1",
     "x": "127.098752313326",
-    "y": "37.3918233121949"
+    "y": "37.3918233121949",
+    "opening_hours": [
+      "월~금  08:00 ~ 19:00",
+      "토  11:00 ~ 19:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F820762FE269E4C66945F87E48FC14300",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F50B1B130D54D46D38F349A6DC349DFA9",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F8D90F95126714CE893E74FDE3BBCAB74",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FF78FFF861D744076A7888CC28FC43B58",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F82987071C07A4E778085DA081FA0D887"
+    ]
   },
   {
     "address_name": "경기 성남시 중원구 금광동 4349",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "6820",
     "id": "1564949199",
     "phone": "010-5837-5662",
@@ -165,13 +233,21 @@
     "place_url": "http://place.map.kakao.com/1564949199",
     "road_address_name": "경기 성남시 중원구 자혜로16번길 62",
     "x": "127.15901896244",
-    "y": "37.4451825677275"
+    "y": "37.4451825677275",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA2MjZfOSAg%2FMDAxNzE5Mzc1OTg1MDAx.gf9j_a4OGASGmuAqThpwRls508R8OKUvNX8oYTMqdLYg.VYOv9XmHXNFtDMp640OeN3x6VaghIwJ3Be24dpHjkckg.JPEG%2FKakaoTalk_20240110_155341587_03.jpg%3Ftype%3Dw773",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMTlfMTgz%2FMDAxNzMxOTc4NDM0ODE5.WVxn6y0vn1o1qgSsOzsleD9RRuGJWIzCbh3Kacg-bhcg.PzGeljkQbUrnWQ5pXuHCh5MRxHx8PF15o0GphrxCjLsg.JPEG%2FKakaoTalk_20240507_090057190_06.jpg%3Ftype%3Dw386",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMTlfMjkg%2FMDAxNzMxOTc4NDAwNDI3.Ng6vLRvUR2ztt3HpdIOwiTk7uUMZWji5-Z27B9OZXFAg.PdTaKFWkR1ui-OHzf39KRSFLSg4d-uO3YEfCA7ctSjog.JPEG%2FKakaoTalk_20240927_161154014.jpg%3Ftype%3Dw386",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMTlfMTMy%2FMDAxNzMxOTc4Mzg0NjU4.NZyBLLa1TVLi_AFEJRk9jdM9j-00Qjp9Ufd9zZGIe_Ag.WT2Wmabqh-51ydgcePLyYqkkxMjw9PNso2i3PKj95kwg.JPEG%2FKakaoTalk_20240919_092318842_03.jpg%3Ftype%3Dw386",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMTlfMzYg%2FMDAxNzMxOTc3MDY4MDQy.LuaI_vIl0PeBGfZVQQoOHrdJ9qHmiS3WmV11-YkvQfgg.jbAsRHhlOOWLm9olAnI37hXX5ibfaAj8TGZZ3E45FsYg.JPEG%2FKakaoTalk_20240808_113415369.jpg%3Ftype%3Dw386"
+    ]
   },
   {
     "address_name": "경기 성남시 수정구 태평동 3693-19",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "5134",
     "id": "160911770",
     "phone": "010-5927-0770",
@@ -179,13 +255,21 @@
     "place_url": "http://place.map.kakao.com/160911770",
     "road_address_name": "경기 성남시 수정구 수정로119번길 13-1",
     "x": "127.132968326985",
-    "y": "37.4424756631667"
+    "y": "37.4424756631667",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FDA7253917A9641CD880D74FF1477328B",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F6FB346BF4B424C77A708501E01F2B56C",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FCA4EC8802E9A438C89C2C57FB5D5387F",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F551C56A07FFE4ABB82BCB2F84AF61FD0",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F2534063B808E4A43A59714335E0050C5"
+    ]
   },
   {
     "address_name": "서울 용산구 한남동 4-7",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "16933",
     "id": "1665023134",
     "phone": "02-6223-3480",
@@ -193,27 +277,43 @@
     "place_url": "http://place.map.kakao.com/1665023134",
     "road_address_name": "서울 용산구 독서당로 113",
     "x": "127.011632428877",
-    "y": "37.5366313076702"
+    "y": "37.5366313076702",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F26780271668D4EDD8DBB5538F7566FFA",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F8FF26394EE9E4EC3AF0CB0918305BF32",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FD9CB1F396F4F415C91BF87192D888273",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F2AEA88B634354B6388AD74CD530D2BA1",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F7C0DD26E4D5B4219A97B40559F65D907"
+    ]
   },
   {
     "address_name": "경기 용인시 수지구 상현동 1135-3",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "12219",
     "id": "1693537573",
     "phone": "",
-    "place_name": "반려견놀이터",
+    "place_name": "상현레스피아 반려견놀이터",
     "place_url": "http://place.map.kakao.com/1693537573",
     "road_address_name": "",
-    "x": "127.076251662606",
-    "y": "37.2947485886608"
+    "x": "127.07625279042114",
+    "y": "37.29474858792412",
+    "opening_hours": [
+      "화~일  10:00 ~ 19:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2FF2E827E987B643F8BBD326BCC4356D16",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F372C6555FDE1400EB75E3A2591FF8508",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2Fcbb4269ac6a76e632d64205b1c92eca2d992d71076a093afcef3a2c624fc37f9"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 판교동 590",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "1801",
     "id": "1698531111",
     "phone": "010-2527-3587",
@@ -221,13 +321,17 @@
     "place_url": "http://place.map.kakao.com/1698531111",
     "road_address_name": "경기 성남시 분당구 운중로 255",
     "x": "127.091486044584",
-    "y": "37.3895090240114"
+    "y": "37.3895090240114",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDAxMTVfMjY3%2FMDAxNzA1Mjg3NjAxNTYx.KddQnkCBK3W6_z6cmqtLvhSPj6yZzphvt-Ifx4qO89Ag.EehZiOBTJGOotnZ_LNDOyX9lDuQfII2x1dJLDIpocYsg.JPEG.do_0102%2FIMG_4860.jpg%3Ftype%3Dw466"
+    ]
   },
   {
     "address_name": "경기 안양시 만안구 석수동 18",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "16935",
     "id": "172737142",
     "phone": "070-4140-4000",
@@ -235,13 +339,24 @@
     "place_url": "http://place.map.kakao.com/172737142",
     "road_address_name": "",
     "x": "126.9148675964867",
-    "y": "37.428932481227584"
+    "y": "37.428932481227584",
+    "opening_hours": [
+      "화~일  10:00 ~ 19:00",
+      "공휴일 10:00 ~ 21:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FCF8DB3A18BF84CBF89A2F99A222D7EBD",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F025E8A6695C74C53952464AAEA6E4A3C",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F18FD2CFC16174A0DB5E247728B146DAE",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F0c27688dcabcbaf713c5ecbf33575b21c0d1ec35cf47f57226167139eee8e280",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F219e0d89213bc6976cedeaaaa8f1221902f99936%3Foriginal"
+    ]
   },
   {
     "address_name": "서울 송파구 가락동 508",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "10402",
     "id": "1734297400",
     "phone": "",
@@ -249,13 +364,24 @@
     "place_url": "http://place.map.kakao.com/1734297400",
     "road_address_name": "",
     "x": "127.0998759425726",
-    "y": "37.496397693201686"
+    "y": "37.496397693201686",
+    "opening_hours": [
+      "화~금  13:00 ~ 20:00",
+      "토,일  11:00 ~ 18:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzA0MTRfMTMy%2FMDAxNjgxNDU1Mjk3OTIx.Dn3baYitZyLmGdSIzje0OGqDVARJFmJUjlVDYb_l8Xsg.3AvSpSNZ2NLQ1kYnMeoSH5biaDLmjUXCZFb0pXN3UUog.JPEG.dorothy325%2F20230129%25EF%25BC%25BF175703.jpg%3Ftype%3Dw773",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMTVfMjMg%2FMDAxNzMxNjQ3Njg5NTE1.7c3-0mrUF8WiKc6gzpWObPb4JN14rWrQEzIT68Jy7fog.L9AcHqx7JByVbRux_kkW5SP_zDKIYKKrYCs6Avx4GKcg.JPEG%2FIMG_0701.jpg%3Ftype%3Dw580",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMTVfMjkg%2FMDAxNzMxNjQ3Njg4MDg3.j8VIS2oiGzWfMXe8g3f42OMwyf4uSzoeV1f9TBNnYFsg.H_cXQfZFnRQFz-mzSjFECWztI9qRSHQQgeNCw-bO8JQg.JPEG%2FIMG_0712.jpg%3Ftype%3Dw580",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMTVfMTM5%2FMDAxNzMxNjQ3Njg2NDkx.5p1e_K0cK93CUjmFJqj0Kmn_Gl2erSa-kqtceOYnxx4g.8N4lKQFFf-Cf161XkosPXtxPww_TKQuq5xnU91JkgFEg.JPEG%2FIMG_0710.jpg%3Ftype%3Dw580",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMTVfNTgg%2FMDAxNzMxNjQ3Njg2MDIx.mfoSsZRrlos8MlG4ePYwi7rpJr4Pxruiw4cxvb3pcUYg.hg6-OXcx9390PV1WfJn_C5gjT041DJprUXdgYGJPwSQg.JPEG%2FIMG_0711.jpg%3Ftype%3Dw580"
+    ]
   },
   {
     "address_name": "경기 과천시 중앙동 38",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "10447",
     "id": "176002456",
     "phone": "010-5885-3210",
@@ -263,27 +389,43 @@
     "place_url": "http://place.map.kakao.com/176002456",
     "road_address_name": "경기 과천시 관문로 92",
     "x": "126.990295810658",
-    "y": "37.4297943766334"
+    "y": "37.4297943766334",
+    "opening_hours": [
+      "월~금  08:00 ~ 19:00",
+      "토,일  11:00 ~ 19:00",
+      "공휴일 11:00 ~ 19:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F8DFFBB8931374BC8BA438ED0B1D23FFE",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FDF4B80EAA4464898A84D4211E389E1AE",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F707A0FBDB34B4B679DEBB84C72DA7CCF",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F6BFDDCE3CC9847ADB17B8BAF9C663784",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FB39E37E45AD54DE389F62623705F528E"
+    ]
   },
   {
-    "address_name": "경기 성남시 분당구 율동 318",
+    "address_name": "경기 성남시 분당구 율동 산 91-12",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
-    "distance": "4770",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
+    "distance": "5226",
     "id": "1768768230",
     "phone": "",
     "place_name": "반려견 놀이터",
     "place_url": "http://place.map.kakao.com/1768768230",
-    "road_address_name": "경기 성남시 분당구 문정로 145",
-    "x": "127.147161330634",
-    "y": "37.3777206230839"
+    "road_address_name": "경기 성남시 분당구 문정로 72",
+    "x": "127.15241247476219",
+    "y": "37.37655615652601",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2FEA0388D4BFE54C3B824A7290C551DDE6"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 서현동 326-4",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "3973",
     "id": "1770368698",
     "phone": "010-7487-9009",
@@ -291,13 +433,21 @@
     "place_url": "http://place.map.kakao.com/1770368698",
     "road_address_name": "경기 성남시 분당구 돌마로522번길 5-1",
     "x": "127.137424090125",
-    "y": "37.3794370757848"
+    "y": "37.3794370757848",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FC7A92333AEB9483FAE559E42D22525DE",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F700CC838AB164C8E9BDEF6B7AD527094",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FD7CD0B7963BD47DCA0655B909B803BCF",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F51E3B2F4EED141849372EB14C05F702F",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FA1DDAE4DB2954A0882CFE3FDC877AC4C"
+    ]
   },
   {
     "address_name": "서울 중랑구 면목동 651-9",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "19694",
     "id": "1883946588",
     "phone": "010-5073-7961",
@@ -305,13 +455,24 @@
     "place_url": "http://place.map.kakao.com/1883946588",
     "road_address_name": "서울 중랑구 사가정로50길 30",
     "x": "127.085915005214",
-    "y": "37.5796133227289"
+    "y": "37.5796133227289",
+    "opening_hours": [
+      "월~금  08:00 ~ 20:00",
+      "토  10:00 ~ 19:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FA05C0B8B486C47FC871FEF99884D0679",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F38CF448C8C554026A78FC710D5205394",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FC88671E659FC4408817F5447EB179945",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F4C17A0673A9D4935A5B7F012E90D9C44",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F0338DFA80E6E49908061BA247428C096"
+    ]
   },
   {
     "address_name": "경기 용인시 수지구 죽전동 1189-5",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "8100",
     "id": "190532198",
     "phone": "031-889-1119",
@@ -319,13 +480,24 @@
     "place_url": "http://place.map.kakao.com/190532198",
     "road_address_name": "경기 용인시 수지구 현암로 147",
     "x": "127.125799956517",
-    "y": "37.331956847145"
+    "y": "37.331956847145",
+    "opening_hours": [
+      "월~금  08:30 ~ 20:00",
+      "토,일  10:00 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FD07CC72F08CA4E5DA20C40E6E1E6D2EC",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA4MTFfNjQg%2FMDAxNzIzMzQ4OTk5MzYz.T9vnIMpdb6pOvprZdTOXbsqxB47l2ClVBSuj7Q-teOAg.pq0KgaYUEccKuoirWxYQ4nyoDcH-GrF82GwQlgdC9HIg.JPEG%2F%25EB%25A9%258D%25EB%25B8%2594%25EB%25A6%25AC%25EC%258A%25A4_%25EC%2595%25A0%25EA%25B2%25AC%25EC%259C%25A0%25EC%25B9%2598%25EC%259B%2590_%25EC%2595%25A0%25EA%25B2%25AC%25ED%2598%25B8%25ED%2585%2594_%25EC%2595%25A0%25EA%25B2%25AC%25EB%25AF%25B8%25EC%259A%25A9_5.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA4MTFfMjM1%2FMDAxNzIzMzQ4OTk5MzY2.mdjyE9_B8UTxCxEYI7GkyGloKGrm6EB1erX2rVkh2wcg.snkC_VtFlW5fcaJhICXvVPa64XFttm5QW-lpFWZ4BYEg.JPEG%2F%25EB%25A9%258D%25EB%25B8%2594%25EB%25A6%25AC%25EC%258A%25A4_%25EC%2595%25A0%25EA%25B2%25AC%25EC%259C%25A0%25EC%25B9%2598%25EC%259B%2590_%25EC%2595%25A0%25EA%25B2%25AC%25ED%2598%25B8%25ED%2585%2594_%25EC%2595%25A0%25EA%25B2%25AC%25EB%25AF%25B8%25EC%259A%25A9_4.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA4MTFfMTM1%2FMDAxNzIzMzQ4OTk5MzU3.tq-KbVm4KkK4N6m1O6UWFpQ4KOswAgH8VxU6vEDb4Ygg.V7DQLjKkNx6qdvaaAp4Bzwnq3TiDI9lbRl8rAg3BUCMg.JPEG%2F%25EB%25A9%258D%25EB%25B8%2594%25EB%25A6%25AC%25EC%258A%25A4_%25EC%2595%25A0%25EA%25B2%25AC%25EC%259C%25A0%25EC%25B9%2598%25EC%259B%2590_%25EC%2595%25A0%25EA%25B2%25AC%25ED%2598%25B8%25ED%2585%2594_%25EC%2595%25A0%25EA%25B2%25AC%25EB%25AF%25B8%25EC%259A%25A9_3.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA4MTFfMjUw%2FMDAxNzIzMzQ4OTk5MzUw.9XnILOTiOGrCy7Gi41ww3H_hzZDbUCk5x9oIFBc9FeAg.jiK_OD8r2ycHd1PffgOW6EAWgAWXz_VMkTIKWoBr00Ag.JPEG%2F%25EB%25A9%258D%25EB%25B8%2594%25EB%25A6%25AC%25EC%258A%25A4_%25EC%2595%25A0%25EA%25B2%25AC%25EC%259C%25A0%25EC%25B9%2598%25EC%259B%2590_%25EC%2595%25A0%25EA%25B2%25AC%25ED%2598%25B8%25ED%2585%2594_%25EC%2595%25A0%25EA%25B2%25AC%25EB%25AF%25B8%25EC%259A%25A9_2.jpg%3Ftype%3Dw966"
+    ]
   },
   {
     "address_name": "경기 수원시 장안구 정자동 111-14",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "16230",
     "id": "2055543083",
     "phone": "",
@@ -333,13 +505,17 @@
     "place_url": "http://place.map.kakao.com/2055543083",
     "road_address_name": "경기 수원시 장안구 수성로 175",
     "x": "126.990978369463",
-    "y": "37.2872040871511"
+    "y": "37.2872040871511",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2Fe992d7a350b6a4e9aef062e5115cea701a61e7a4%3Foriginal"
+    ]
   },
   {
     "address_name": "경기 과천시 과천동 36-24",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "10226",
     "id": "2061857359",
     "phone": "0507-1418-0988",
@@ -347,13 +523,17 @@
     "place_url": "http://place.map.kakao.com/2061857359",
     "road_address_name": "",
     "x": "127.00723780954264",
-    "y": "37.453874179664524"
+    "y": "37.453874179664524",
+    "opening_hours": [],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
   },
   {
     "address_name": "경기 용인시 수지구 죽전동 452",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "8423",
     "id": "2071456128",
     "phone": "010-3139-2548",
@@ -361,13 +541,44 @@
     "place_url": "http://place.map.kakao.com/2071456128",
     "road_address_name": "경기 용인시 수지구 정든로6번길 2",
     "x": "127.112872967094",
-    "y": "37.3271890111849"
+    "y": "37.3271890111849",
+    "opening_hours": [
+      "월~금  08:00 ~ 20:00",
+      "토  08:00 ~ 17:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA3MjRfMjQ1%2FMDAxNzIxODI1MDg1MTk2.7v2Q6UCRjcs8h5fMzIEtVVf5Ehl9XbW27jJjWkFDZhEg.rBQ5B_yts6xXGMGkO1XMQ0lGkVuTnmoOT3J13hZqcYsg.JPEG%2Fimage_5.jpg%3Ftype%3Dw966"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 분당구 백현동 530",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
+    "distance": "1196",
+    "id": "2079306638",
+    "phone": "010-3654-9091",
+    "place_name": "상추네펫시터",
+    "place_url": "http://place.map.kakao.com/2079306638",
+    "road_address_name": "경기 성남시 분당구 판교역로 145",
+    "x": "127.10934890289",
+    "y": "37.3930564976821",
+    "opening_hours": [
+      "매일  00:00 ~ 24:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F9F24C8C95E384523A3C9B36A8D969C7D",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FC5390201E3E6459DA0C6CE115E956FC5",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F6FF9CFB10F98412885112B8DAA90C56A",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FC8A0C4468F784C5C8DCF561094055D03",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FCF36CF46616B4DF1B0CEBF1790DDB3AF"
+    ]
   },
   {
     "address_name": "경기 용인시 기흥구 마북동 494-1",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "11571",
     "id": "2091077321",
     "phone": "031-282-2355",
@@ -375,13 +586,21 @@
     "place_url": "http://place.map.kakao.com/2091077321",
     "road_address_name": "경기 용인시 기흥구 용구대로2335번길 47",
     "x": "127.10653201183133",
-    "y": "37.29847532276962"
+    "y": "37.29847532276962",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F8479D029C8DE4A0DA02638646479507C",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F9EA9A3F398424C5B9D9B88AA68A9D105",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F57AC628D1CE94B579A596015B7E196EF",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2Fa3f48ea97f9da019f29b1d478f3c3db51f7d5152%3Foriginal",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F264acb594e0bf39c5936e61473843b71f559c5ae%3Foriginal"
+    ]
   },
   {
     "address_name": "경기 의왕시 청계동 553",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "8798",
     "id": "228721115",
     "phone": "",
@@ -389,13 +608,21 @@
     "place_url": "http://place.map.kakao.com/228721115",
     "road_address_name": "",
     "x": "127.004697837127",
-    "y": "37.3930664171114"
+    "y": "37.3930664171114",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FB47079368636486BA487B3F0DCB9F81E",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FBDB1486E88C444B6952C701DE9C9847B",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2Fcf180581afd903b5c64a81fdebe9e1735d6028a9%3Foriginal",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F1d933125ea9ed064e50114dd85e6a30f31d3a82c%3Foriginal",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F5a2b3e5070169077c037520d6f037087ee14b445%3Foriginal"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 수내동 65",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "2860",
     "id": "236006894",
     "phone": "",
@@ -403,13 +630,19 @@
     "place_url": "http://place.map.kakao.com/236006894",
     "road_address_name": "",
     "x": "127.121277792454",
-    "y": "37.3812820119701"
+    "y": "37.3812820119701",
+    "opening_hours": [
+      "화~일  10:00 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
   },
   {
     "address_name": "경기 성남시 중원구 성남동 2348",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "4727",
     "id": "239690861",
     "phone": "010-3544-2688",
@@ -417,13 +650,24 @@
     "place_url": "http://place.map.kakao.com/239690861",
     "road_address_name": "경기 성남시 중원구 원터로105번길 36-1",
     "x": "127.139125436637",
-    "y": "37.4343143918081"
+    "y": "37.4343143918081",
+    "opening_hours": [
+      "월,수,목,금  08:00 ~ 20:00",
+      "토,일  12:00 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FFFA325A86CDB48EA98D8315FD0ED6C07",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F5B4672FA3CB94980950E1ED6388CD973",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzA4MTFfMTU2%2FMDAxNjkxNzA1NDE2NzIy._8ygGz5TK7QLucLPImEJDznf005k3gs0wNKxU7srwBQg.B3sEnnXqFyluTHTn04kCJulowiEQAZYElbdtw-2VbMUg.JPEG.alfksshfkd12%2FIMG_7650.JPG%3Ftype%3Dw386",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzA4MTFfMTMz%2FMDAxNjkxNzA1NDE2NzIx.NI8pm6hNFuBeua8kVf4WZ5UNzCpfqC_UIkF-dlHwh9Ag.zbhbR2u6P5MiokS68pe8JiB4WqSeXq1GOOoAHH0NwHog.JPEG.alfksshfkd12%2FIMG_7654.JPG%3Ftype%3Dw386",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzA4MTFfMTU1%2FMDAxNjkxNzA1NDE2Njkx.egwC_L229Kwliy1f9K9bDKoC81WI_6bJ0ZdrXfGSJY0g.IeIu7iMTgZ3e1WrVDf3mMPvXtgsMJYUQtp2x5hzMIGUg.JPEG.alfksshfkd12%2FIMG_7656.JPG%3Ftype%3Dw386"
+    ]
   },
   {
     "address_name": "서울 송파구 장지동 904-2",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "8743",
     "id": "248525910",
     "phone": "070-8064-4690",
@@ -431,13 +675,23 @@
     "place_url": "http://place.map.kakao.com/248525910",
     "road_address_name": "서울 송파구 위례순환로 478",
     "x": "127.13408642542",
-    "y": "37.4775715044575"
+    "y": "37.4775715044575",
+    "opening_hours": [
+      "월~토  08:00 ~ 19:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F3DACAE9A1E6C440BBEA07DCF0F655920",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FCFFD076D899A495799E51FC946C81102",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA5MjVfMjYy%2FMDAxNzI3MjMzNTU4Mjcw.GxkyUpdwBFHWc5rtOVIh-ZQFxmk-v83Kdfl2kgZacO4g.0CZhxh8el-apBgWZpZpLSTqhD17XMY62joHLczo6qaIg.JPEG%2FKakaoTalk_20240925_113058051_09.jpg%3Ftype%3Dw466",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA5MjVfMjM2%2FMDAxNzI3MjMzNTM0OTQ5.DrdWP_JetYZHfpYK1Ue7mt3pIiaeREwxVMncqemBB-og.Ygfo8HZKaCEXEfOU6GVKvqnpLRYaDKBLeHDwKzl-LR0g.JPEG%2FKakaoTalk_20240925_113058051_10.jpg%3Ftype%3Dw466",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA5MjVfMjYy%2FMDAxNzI3MjMxNTk1NTg1.zRJ40gq_VpBupAgtE9KFwc_GoJxJit4d2nGt9Vy7QzQg.TuLGTGVZVW2xmlAFA8aW0WW7WpPNq3a1VWgft5bANwwg.JPEG%2FKakaoTalk_20240925_113058051_07.jpg%3Ftype%3Dw466"
+    ]
   },
   {
     "address_name": "경기 수원시 영통구 하동 1008",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "13173",
     "id": "26781229",
     "phone": "",
@@ -445,13 +699,23 @@
     "place_url": "http://place.map.kakao.com/26781229",
     "road_address_name": "",
     "x": "127.078689549524",
-    "y": "37.2856519159566"
+    "y": "37.2856519159566",
+    "opening_hours": [
+      "화~일  10:00 ~ 22:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2FD285977554E34CD087848701C937EF5C",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F0b0ffebc18c845c3052209feb23e83b091fa2675%3Foriginal",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMjBfMTM0%2FMDAxNzI5NDMzNjA1MTIy.ASsNthVQ4Fuedq-1xYOlTi-M7yMOiJlaBtEnF1_AVn0g.r4yWYmcdakeAIrFeylOvMdN-7MCxi_u2Yu4JT-evsckg.JPEG%2F20241020%25EF%25BC%25BF133607.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMjBfMjQ0%2FMDAxNzI5NDMzNjAwMjk2.VMy3wqqM09oTk0SKElcfSWHu9zLXF-Kh4wbJuNzSsUsg.XinulzJMf2hFexLRxslF5yCxjdOaMR127mGxukUfawYg.JPEG%2F20241020%25EF%25BC%25BF134151%25EF%25BC%25880%25EF%25BC%2589.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMjBfMjU5%2FMDAxNzI5NDMzNTk5Nzg5.avAMOHuZ9GDfb80nEd3R00aP-Yd9kJJR0O1aoyI7rYkg.9vYrErJTyLjY50CEY7n8fq9l9edOTwn8Ju1sUCrznY4g.JPEG%2F20241020%25EF%25BC%25BF135239.jpg%3Ftype%3Dw966"
+    ]
   },
   {
     "address_name": "서울 송파구 문정동 652-4",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "9029",
     "id": "270164452",
     "phone": "010-2473-0418",
@@ -459,13 +723,27 @@
     "place_url": "http://place.map.kakao.com/270164452",
     "road_address_name": "서울 송파구 법원로4길 10",
     "x": "127.12283198380457",
-    "y": "37.48256361485925"
+    "y": "37.48256361485925",
+    "opening_hours": [
+      "월~금  08:30 ~ 20:30",
+      "토,일  10:00 ~ 20:00",
+      "매일 휴게시간  13:30 ~ 15:00",
+      "공휴일 10:00 ~ 20:00",
+      "공휴일 13:30 ~ 15:30"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F2AE22A847D8E4E2D97185007C643CE83",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FBEFEA16057CA4724A391FB5D2510C0A0",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FEF01F9D990244698A729522C6A4A62A1",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FDA43AA0757D54C9A8D54EFE3FDFDF91A",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FD62D3F89532E4693BB5D1705A4B434B7"
+    ]
   },
   {
     "address_name": "서울 관악구 신림동 1438-13",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "18248",
     "id": "301930970",
     "phone": "070-7655-4550",
@@ -473,13 +751,24 @@
     "place_url": "http://place.map.kakao.com/301930970",
     "road_address_name": "서울 관악구 신림동길 23-1",
     "x": "126.926160898872",
-    "y": "37.4868571497678"
+    "y": "37.4868571497678",
+    "opening_hours": [
+      "매일  13:00 ~ 23:00",
+      "공휴일 13:00 ~ 24:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FAF5D8A44D34146EC8FDA61D96F087362",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F3CC1E6CA03904C8F90A86C94EC4D42B4",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F5B63409BABCE4687B5A3C66A5D03CB5E",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F66653480324A43D3A27F711CB503BCF6",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F1E8C87630DA0444BB45BC0D338C60D8B"
+    ]
   },
   {
     "address_name": "경기 성남시 수정구 창곡동 546-2",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "7939",
     "id": "339610683",
     "phone": "031-755-6377",
@@ -487,13 +776,21 @@
     "place_url": "http://place.map.kakao.com/339610683",
     "road_address_name": "경기 성남시 수정구 위례광장로 41",
     "x": "127.140153101027",
-    "y": "37.4679407807906"
+    "y": "37.4679407807906",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F4E8A7A729C65436781C11B2045BB6B73",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F97567CA2266143188E8684152F968545",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F91E8E7E6F1054AF4ACA7750D8A850073",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FD5E86C3EB296426CABD4A5B4D8CE711B",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FFE41F6D31416441197347268EA9AF86E"
+    ]
   },
   {
     "address_name": "서울 강남구 논현동 217-39",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "13662",
     "id": "344187605",
     "phone": "010-8010-8338",
@@ -501,13 +798,20 @@
     "place_url": "http://place.map.kakao.com/344187605",
     "road_address_name": "서울 강남구 언주로125길 11",
     "x": "127.034373829379",
-    "y": "37.5128557342293"
+    "y": "37.5128557342293",
+    "opening_hours": [
+      "매일  09:00 ~ 21:30",
+      "공휴일 09:00 ~ 21:30"
+    ],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
   },
   {
     "address_name": "서울 송파구 송파동 122-7",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "11287",
     "id": "419637389",
     "phone": "0502-5550-0063",
@@ -515,13 +819,24 @@
     "place_url": "http://place.map.kakao.com/419637389",
     "road_address_name": "서울 송파구 가락로 169",
     "x": "127.113879478668",
-    "y": "37.5040597901854"
+    "y": "37.5040597901854",
+    "opening_hours": [
+      "월~금  08:00 ~ 20:00",
+      "토,일  09:00 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F2D6F2ED9C395454DB576E25546FFA476",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FEB0981E00A6B46A5B3FB0228B6C23888",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F30F16A9C4C6E40E690B283F6AB15B326",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F9F41ADE58BA641F4A24746B5E313FD65",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FFD816BFF6D7B46E194D2C73AD10E5635"
+    ]
   },
   {
     "address_name": "서울 송파구 가락동 70-8",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "10744",
     "id": "465208797",
     "phone": "010-2639-8908",
@@ -529,13 +844,20 @@
     "place_url": "http://place.map.kakao.com/465208797",
     "road_address_name": "서울 송파구 중대로9길 53-31",
     "x": "127.118673097341",
-    "y": "37.4987373377977"
+    "y": "37.4987373377977",
+    "opening_hours": [
+      "월~금  07:30 ~ 20:00",
+      "토  09:00 ~ 17:00"
+    ],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
   },
   {
     "address_name": "경기 성남시 수정구 창곡동 539-12",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "7903",
     "id": "497373100",
     "phone": "0507-1421-6717",
@@ -543,13 +865,24 @@
     "place_url": "http://place.map.kakao.com/497373100",
     "road_address_name": "경기 성남시 수정구 위례서일로1길 26-5",
     "x": "127.138622863949",
-    "y": "37.46812549092"
+    "y": "37.46812549092",
+    "opening_hours": [
+      "월~금  08:00 ~ 20:00",
+      "토,일  10:00 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FABD3F6E177D14F5585E1D2AE07FC2686",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FEB3F0891B7B64CA195B0429096671DB5",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F0454398D94234510B4D93F5014429BF4",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F2C3C3B1B785B4108A5EDCF216ACB65CF",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FA8FC96D7ED2243AF83A4707144F85838"
+    ]
   },
   {
     "address_name": "경기 용인시 수지구 동천동 342-2",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "7261",
     "id": "618142097",
     "phone": "010-7659-7893",
@@ -557,13 +890,25 @@
     "place_url": "http://place.map.kakao.com/618142097",
     "road_address_name": "경기 용인시 수지구 수지로461번길 40",
     "x": "127.093236702752",
-    "y": "37.3377824200876"
+    "y": "37.3377824200876",
+    "opening_hours": [
+      "월~금  08:00 ~ 20:00",
+      "토,일  09:00 ~ 20:00",
+      "공휴일 09:00 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F912FECC9DD8848E68DAFCFD09A6CC935",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F9B76998471FE4A498F76B5960A5DE768",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FBAA7FB2CE843450E83D7DF67918BFEEF",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F16E52F0A313E42968523B7ADA19B73DD",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FA973980E307948F18DA69B7F57795D43"
+    ]
   },
   {
     "address_name": "서울 송파구 삼전동 101-16",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "11154",
     "id": "65161840",
     "phone": "010-3200-9274",
@@ -571,13 +916,45 @@
     "place_url": "http://place.map.kakao.com/65161840",
     "road_address_name": "서울 송파구 백제고분로 245",
     "x": "127.094016209761",
-    "y": "37.502941101373"
+    "y": "37.502941101373",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F1823E8D6E1334AB7824121B6F922BB8C",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA2MDhfMTQ4%2FMDAxNzE3ODM1Mjk5Mjk5.eEzuwySopx5VHXVQocIxr9wpfxs9R87UwD1SGMc9100g.ua0oyVjyq9xtkbBrTi6rB9BkObqIH7cAbiNfbxHSotcg.JPEG%2FKakaoTalk_20240608_172525158_19.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA2MDhfMTIw%2FMDAxNzE3ODM1Mjk5MzAw.9XUnR9b2e-eo2S8PqGXpYx01dVF4JfANBd2Ikz3_dKEg.MQbshXfC42Ls-01aVpMTY3Go5y1_OntsCH9XZYyT-Tcg.JPEG%2FKakaoTalk_20240608_172525158_18.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA2MDhfMjA0%2FMDAxNzE3ODM1Mjk4NTQ0.ngWc_oO1qzdaX_d8epRjSTvuq3Wy3S1kmC1nNT9XB7og.VmINGwKzQoIP3uKMThPNFjoAQRMU-R7tghMhKTTJvbwg.JPEG%2FKakaoTalk_20240608_172525158_15.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA2MDhfMzYg%2FMDAxNzE3ODM1Mjk3OTIx.ON3345Ji888Ye9ENtzkGvY6iCAKE6XLv9vEOPjO_AGsg.Azzx3VvSA-Ae2D0cPK71PSFr9AUO5RR9cPD4WfOqSuYg.JPEG%2FKakaoTalk_20240608_172525158_14.jpg%3Ftype%3Dw966"
+    ]
+  },
+  {
+    "address_name": "서울 송파구 삼전동 179-5",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
+    "distance": "11006",
+    "id": "654599124",
+    "phone": "0503-7151-0157",
+    "place_name": "오늘도댕댕이",
+    "place_url": "http://place.map.kakao.com/654599124",
+    "road_address_name": "서울 송파구 백제고분로32길 7",
+    "x": "127.09525862522274",
+    "y": "37.50166698533494",
+    "opening_hours": [
+      "월~토  08:00 ~ 19:30"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F2D496F64BEF04BB89984BFFDEBF48DFF",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F5F429B4FC34A44FEAE053EECBE001048",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FE59AF7256F4949169189343AADD4B9B1",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F80BD90557ED947E0AE31A870B53F0724",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F7A9B16C0113B48D0AC4BBB0747EF558B"
+    ]
   },
   {
     "address_name": "서울 송파구 장지동 894",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "8750",
     "id": "876357244",
     "phone": "02-6958-7800",
@@ -585,13 +962,23 @@
     "place_url": "http://place.map.kakao.com/876357244",
     "road_address_name": "서울 송파구 위례광장로 136",
     "x": "127.14119720122989",
-    "y": "37.47554045588846"
+    "y": "37.47554045588846",
+    "opening_hours": [
+      "월~금  08:00 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FD7B4F78529BD4A3EB95ECFF82FF78DC3",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMTVfMjg3%2FMDAxNzI4OTkzOTg1MTk1.maYuCJHG8uxf-XBHWmIT-VhqakLuIip4IahCR5wPteIg.J0MQ9fSXHATdqCY5ZL_RZ-ipLZuhj3VcZHgg2yL6EA4g.JPEG%2Fdownloaded_image10.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMTVfMzEg%2FMDAxNzI4OTkzOTg1MDM4.uXuAIwdtB0L9D590qrlFzgKZCWuB9kAe_K0PDU-aiTog.EYtaqNcpMy9NgY__uwZsLzpKab0Av9AfQuYs9elNhGsg.JPEG%2Fdownloaded_image8.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMTVfMTYy%2FMDAxNzI4OTkzOTg0OTg2.OG2DsATWDtTrtMSIvRaYqbONEdjpR4ad6CEkWKhvg8kg.nffVaECpefiNhgCqoVTdBg1WOUIloH4zcO-PsU6YluAg.JPEG%2Fdownloaded_image7.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMTVfMTY4%2FMDAxNzI4OTkzOTg0NjEx.cXroEur-DoqCu9f787irhFtaaL50PJsqhLPueZtWMFQg.aIzbym6hSl5re7Mxz356Fxmstk6qx-OA_Akdj_uEm_0g.JPEG%2Fdownloaded_image6.jpg%3Ftype%3Dw966"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 정자동 100-3",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "3493",
     "id": "913539885",
     "phone": "",
@@ -599,13 +986,17 @@
     "place_url": "http://place.map.kakao.com/913539885",
     "road_address_name": "",
     "x": "127.10944194862",
-    "y": "37.3716075431027"
+    "y": "37.3716075431027",
+    "opening_hours": [],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
   },
   {
     "address_name": "서울 송파구 장지동 881",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "culture",
+    "category_name": "가정,생활 > 반려동물 > 반려견놀이터",
     "distance": "9360",
     "id": "974020003",
     "phone": "010-2922-0307",
@@ -613,20 +1004,18 @@
     "place_url": "http://place.map.kakao.com/974020003",
     "road_address_name": "서울 송파구 위례광장로 188",
     "x": "127.14239477557",
-    "y": "37.481085628382"
-  },
-  {
-    "address_name": "서울 강남구 논현동 175-1",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "culture",
-    "distance": "13524",
-    "id": "992355996",
-    "phone": "",
-    "place_name": "에르멍스 더 라운지",
-    "place_url": "http://place.map.kakao.com/992355996",
-    "road_address_name": "서울 강남구 논현로 639",
-    "x": "127.032097078197",
-    "y": "37.5105254767188"
+    "y": "37.481085628382",
+    "opening_hours": [
+      "월~금  09:00 ~ 20:00",
+      "토  10:00 ~ 20:00",
+      "공휴일 09:00 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FF998E3A6161E4613B4DEC447F567C04D",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FC3BB3CE20C2444B49FB144C4EE07B4E7",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FDFBB002DCE1B4F48BF68E1CE51FCB003",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F41948A761D7845C0B7526BE26832F2C1",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F7711946B2E4D43CD86132282171BEEA9"
+    ]
   }
 ]

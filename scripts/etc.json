@@ -1,261 +1,142 @@
 [
   {
-    "address_name": "경기 용인시 수지구 성복동 35",
+    "address_name": "경기 성남시 분당구 서현동 80-2",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
-    "distance": "10398",
-    "id": "1459590315",
-    "phone": "031-898-4131",
-    "place_name": "강아지봄",
-    "place_url": "http://place.map.kakao.com/1459590315",
-    "road_address_name": "경기 용인시 수지구 심곡로 87",
-    "x": "127.081522186867",
-    "y": "37.3106447575229"
+    "category_name": "가정,생활 > 반려동물",
+    "distance": "3065",
+    "id": "1422526820",
+    "phone": "031-604-1106",
+    "place_name": "하울팟케어클럽 분당서현점",
+    "place_url": "http://place.map.kakao.com/1422526820",
+    "road_address_name": "경기 성남시 분당구 서현로 251",
+    "x": "127.12941637696812",
+    "y": "37.384542298834276",
+    "opening_hours": [
+      "매일  10:00 ~ 19:00",
+      "공휴일 10:00 ~ 19:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F8D92C32CB1C347149C7DD8E216780B51",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FBE1C7669BA56442F8D2162E34AC7DB5D",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FDF5145EEFF4E4EDE8EB65327AF015597",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FBBDA75FC168D42D1B9C446B852BC73CD",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FEE4F9985E80C4D4B86C2F2B391D133AA"
+    ]
   },
   {
-    "address_name": "경기 성남시 중원구 금광동 4064",
+    "address_name": "경기 성남시 중원구 여수동 210",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
-    "distance": "7369",
-    "id": "16180468",
-    "phone": "031-748-2236",
-    "place_name": "똥강아지",
-    "place_url": "http://place.map.kakao.com/16180468",
-    "road_address_name": "경기 성남시 중원구 자혜로 13-1",
-    "x": "127.16122819243101",
-    "y": "37.45042257034776"
+    "category_name": "가정,생활 > 반려동물",
+    "distance": "2617",
+    "id": "915803961",
+    "phone": "010-6725-6024",
+    "place_name": "멍냥집사의 상점",
+    "place_url": "http://place.map.kakao.com/915803961",
+    "road_address_name": "경기 성남시 중원구 성남대로997번길 49-13",
+    "x": "127.126403720518",
+    "y": "37.4174544364995",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FCCFEB537299E4CBC8CE5A3D64DC0097C",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2FA3DB891BD27747B59AB2B83EF3932F3C",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F1A342D0550FA4B8EAE7CDCC2C00866EA",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F8e9ebad2e6028bbee2b52b2ff0a5c164b98a9a81%3Foriginal",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F4931b80f067938ababfeef9ee940ef9cf78e25fc%3Foriginal"
+    ]
   },
   {
-    "address_name": "경기 성남시 수정구 신흥동 73-3",
+    "address_name": "경기 성남시 분당구 백현동 604-5",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
-    "distance": "6259",
-    "id": "19909336",
-    "phone": "031-743-6631",
-    "place_name": "예쁜강아지",
-    "place_url": "http://place.map.kakao.com/19909336",
-    "road_address_name": "경기 성남시 수정구 수정로 261",
-    "x": "127.14508882544",
-    "y": "37.4482278941418"
+    "category_name": "가정,생활 > 반려동물 > 반려동물미용",
+    "distance": "2005",
+    "id": "18294858",
+    "phone": "031-605-5382",
+    "place_name": "버블버블",
+    "place_url": "http://place.map.kakao.com/18294858",
+    "road_address_name": "경기 성남시 분당구 동판교로52번길 9-7",
+    "x": "127.1151898261527",
+    "y": "37.3873159444525",
+    "opening_hours": [
+      "매일  10:00 ~ 18:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA3MjVfOTUg%2FMDAxNzIxODczMjc4NzY5.udt01GObf7_0pSvqnCxat34ZO99Dqu25SspMIojyYCYg.4zMMfCtD9i0u7OYVMdsMEDt1gIv_DGfOzcRx714dTK8g.JPEG%2FIMG_4718.jpg%3Ftype%3Dw275"
+    ]
   },
   {
-    "address_name": "경기 성남시 수정구 창곡동 565",
+    "address_name": "경기 성남시 분당구 백현동 582-1",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
-    "distance": "8034",
-    "id": "495739256",
-    "phone": "",
-    "place_name": "강아지고양이편의점 위례점",
-    "place_url": "http://place.map.kakao.com/495739256",
-    "road_address_name": "경기 성남시 수정구 위례광장로 36",
-    "x": "127.14163018605882",
-    "y": "37.468347177303876"
+    "category_name": "가정,생활 > 반려동물 > 반려동물미용",
+    "distance": "2190",
+    "id": "1877821680",
+    "phone": "010-8746-3011",
+    "place_name": "셀린 펫 살롱",
+    "place_url": "http://place.map.kakao.com/1877821680",
+    "road_address_name": "경기 성남시 분당구 판교역로2번길 9-1",
+    "x": "127.112512622216",
+    "y": "37.3843811865828",
+    "opening_hours": [
+      "화~일  10:00 ~ 19:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F17FCC5EE1D6A4D1EAB37B759A51B7FF4",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F8CCA2985483A404192A23E1B023203DF",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F3B661960DD2F4FE297D385B26E7C4F8D",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F8F082405F12042569ED38B64CFA3FDF7",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FF7FB531CE0C44D5CB0DF31C0DB9963B5"
+    ]
   },
   {
-    "address_name": "경기 용인시 수지구 동천동 937",
+    "address_name": "경기 광주시 능평동 340-25",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
-    "distance": "7367",
-    "id": "562899061",
-    "phone": "031-262-9786",
-    "place_name": "봄강아지",
-    "place_url": "http://place.map.kakao.com/562899061",
-    "road_address_name": "경기 용인시 수지구 동천로 137",
-    "x": "127.08877313751",
-    "y": "37.3373497546012"
+    "category_name": "가정,생활 > 반려동물 > 반려동물미용",
+    "distance": "7845",
+    "id": "2116220693",
+    "phone": "010-2702-8732",
+    "place_name": "펫스타일",
+    "place_url": "http://place.map.kakao.com/2116220693",
+    "road_address_name": "경기 광주시 능평로 59",
+    "x": "127.165518303848",
+    "y": "37.3523757310199",
+    "opening_hours": [
+      "매일  10:00 ~ 19:00",
+      "공휴일 10:00 ~ 19:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzAxMzBfMjU0%2FMDAxNjc1MDU0NjA0MDg1.BwCKV02ZVXNJqGs8C2JauLpbp_zMv0Q1_xJXsyjp8Kkg.hR9Q3A8mOSX_OxjW31LZzEm7MM6bHe8Y-cnTMpXxnrMg.GIF.choyj031%2Fse%25EF%25BC%25BFone%25EF%25BC%25BFani%25EF%25BC%25BF20230130%25EF%25BC%25BF135634%25EF%25BC%25BFa.gif%3Ftype%3Dw773"
+    ]
   },
   {
-    "address_name": "경기 성남시 분당구 운중동 1031-2",
+    "address_name": "경기 성남시 중원구 도촌동 579",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
-    "distance": "2216",
-    "id": "1025376121",
-    "phone": "031-707-2359",
-    "place_name": "윤스강아지",
-    "place_url": "http://place.map.kakao.com/1025376121",
-    "road_address_name": "경기 성남시 분당구 판교로25번길 12-5",
-    "x": "127.083925351444",
-    "y": "37.3900993952907"
-  },
-  {
-    "address_name": "경기 성남시 분당구 이매동 120-1",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "2305",
-    "id": "1251651315",
-    "phone": "010-2433-9080",
-    "place_name": "율무네 강아지 미용실",
-    "place_url": "http://place.map.kakao.com/1251651315",
-    "road_address_name": "경기 성남시 분당구 양현로94번길 7",
-    "x": "127.125557874709",
-    "y": "37.3918915949241"
-  },
-  {
-    "address_name": "경기 과천시 별양동 1-7",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "10119",
-    "id": "1552533597",
-    "phone": "010-3268-2657",
-    "place_name": "언제나강아지",
-    "place_url": "http://place.map.kakao.com/1552533597",
-    "road_address_name": "경기 과천시 별양상가1로 38",
-    "x": "126.9935600567086",
-    "y": "37.42815474862167"
-  },
-  {
-    "address_name": "경기 성남시 수정구 신흥동 6451",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "5108",
-    "id": "18362699",
-    "phone": "031-722-0051",
-    "place_name": "강아지사랑",
-    "place_url": "http://place.map.kakao.com/18362699",
-    "road_address_name": "경기 성남시 수정구 탄리로30번길 3",
-    "x": "127.13843397384589",
-    "y": "37.43924375619941"
-  },
-  {
-    "address_name": "서울 송파구 오금동 25-5",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "11772",
-    "id": "22094703",
-    "phone": "02-400-0080",
-    "place_name": "안녕강아지와고양이",
-    "place_url": "http://place.map.kakao.com/22094703",
-    "road_address_name": "서울 송파구 마천로 99",
-    "x": "127.131000710207",
-    "y": "37.5064639446508"
-  },
-  {
-    "address_name": "서울 송파구 가락동 71",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "10604",
-    "id": "296830112",
-    "phone": "",
-    "place_name": "노크노크강아지미용실",
-    "place_url": "http://place.map.kakao.com/296830112",
-    "road_address_name": "서울 송파구 양재대로62길 31-5",
-    "x": "127.119938562729",
-    "y": "37.4973322925789"
-  },
-  {
-    "address_name": "경기 성남시 중원구 상대원동 926-1",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "6843",
-    "id": "757886582",
-    "phone": "010-8139-4614",
-    "place_name": "똥강아지",
-    "place_url": "http://place.map.kakao.com/757886582",
-    "road_address_name": "경기 성남시 중원구 박석로 70",
-    "x": "127.16575766454",
-    "y": "37.4390797516802"
-  },
-  {
-    "address_name": "서울 강남구 개포동 1206-3",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "9571",
-    "id": "1062193829",
-    "phone": "010-2783-3963",
-    "place_name": "강아지분양 올리펍스 강남점",
-    "place_url": "http://place.map.kakao.com/1062193829",
-    "road_address_name": "서울 강남구 개포로28길 20",
-    "x": "127.049963986357",
-    "y": "37.4777235190556"
-  },
-  {
-    "address_name": "경기 성남시 분당구 정자동 66-15",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "3809",
-    "id": "108242600",
-    "phone": "010-3096-2459",
-    "place_name": "요미독앤캣 강아지분양 애견샵 분당점",
-    "place_url": "http://place.map.kakao.com/108242600",
-    "road_address_name": "경기 성남시 분당구 느티로63번길 6-1",
-    "x": "127.111967083627",
-    "y": "37.369085912332"
-  },
-  {
-    "address_name": "서울 송파구 장지동 897",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "8665",
-    "id": "1466783690",
-    "phone": "",
-    "place_name": "하이엔드독강아지고양이 위례3호점",
-    "place_url": "http://place.map.kakao.com/1466783690",
-    "road_address_name": "서울 송파구 위례광장로 120",
-    "x": "127.14176391813017",
-    "y": "37.474514428825074"
-  },
-  {
-    "address_name": "서울 서초구 양재동 372-9",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "9210",
-    "id": "1546896989",
-    "phone": "070-7786-3432",
-    "place_name": "강아지이발소 손톱가게",
-    "place_url": "http://place.map.kakao.com/1546896989",
-    "road_address_name": "서울 서초구 강남대로10길 91",
-    "x": "127.043522460576",
-    "y": "37.470627009502"
-  },
-  {
-    "address_name": "경기 용인시 수지구 성복동 570-11",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "9595",
-    "id": "1592779608",
-    "phone": "031-265-8201",
-    "place_name": "파리봉강아지미용실",
-    "place_url": "http://place.map.kakao.com/1592779608",
-    "road_address_name": "경기 용인시 수지구 도마치로89번길 8",
-    "x": "127.059337995723",
-    "y": "37.3237022283488"
-  },
-  {
-    "address_name": "경기 성남시 분당구 운중동 976-5",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "2569",
-    "id": "1639543624",
-    "phone": "",
-    "place_name": "하얀강아지",
-    "place_url": "http://place.map.kakao.com/1639543624",
-    "road_address_name": "경기 성남시 분당구 운중로125번길 6",
-    "x": "127.077414128464",
-    "y": "37.3922879157142"
+    "category_name": "가정,생활 > 반려동물 > 반려동물분양",
+    "distance": "4443",
+    "id": "114851620",
+    "phone": "010-4869-8253",
+    "place_name": "포에버위드유",
+    "place_url": "http://place.map.kakao.com/114851620",
+    "road_address_name": "경기 성남시 중원구 도촌로8번길 5",
+    "x": "127.151114363229",
+    "y": "37.4149485347522",
+    "opening_hours": [
+      "매일  10:00 ~ 21:00",
+      "공휴일 10:00 ~ 21:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMTNfMjkw%2FMDAxNzMxNDk3MzE4NzQ1.4RZP-dLvX3ElzJoRtEEAF9leDHIsJqwXrQCuuUN0qAQg.jZNVESxwBuzkUvfqwDpeClLtj0X1RsjBN7s6k3NP0uEg.JPEG%2FKakaoTalk_20241113_144012643_12.jpg%3Ftype%3Dw386"
+    ]
   },
   {
     "address_name": "서울 서초구 내곡동 378",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
+    "category_name": "가정,생활 > 반려동물 > 반려동물분양",
     "distance": "7114",
     "id": "1653472187",
     "phone": "02-571-8809",
@@ -263,181 +144,73 @@
     "place_url": "http://place.map.kakao.com/1653472187",
     "road_address_name": "서울 서초구 헌릉로8길 9-8",
     "x": "127.05997411715063",
-    "y": "37.456685661114946"
+    "y": "37.456685661114946",
+    "opening_hours": [
+      "화~일  11:00 ~ 21:00",
+      "공휴일 11:00 ~ 21:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FF6FE383450DF45FEB702B99067CBB8E0",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F73E262756CC24DB1870FBA05C0645BE3",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FA792CDC40B0D4073882A7E042DD64F79",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F1DEE19DECB0B4E389505BAE542506510",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FF0F3E88E925548279FA3FFE20BAD0067"
+    ]
   },
   {
-    "address_name": "경기 용인시 수지구 동천동 887-2",
+    "address_name": "경기 성남시 수정구 창곡동 555-14",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
-    "distance": "7713",
-    "id": "16742011",
-    "phone": "031-264-3424",
-    "place_name": "강아지마을",
-    "place_url": "http://place.map.kakao.com/16742011",
-    "road_address_name": "경기 용인시 수지구 문인로54번길 2",
-    "x": "127.097181769281",
-    "y": "37.3333822145732"
+    "category_name": "가정,생활 > 반려동물 > 반려동물분양",
+    "distance": "7763",
+    "id": "2092759429",
+    "phone": "031-756-5882",
+    "place_name": "바우스토리",
+    "place_url": "http://place.map.kakao.com/2092759429",
+    "road_address_name": "경기 성남시 수정구 위례서일로3길 7-14",
+    "x": "127.138984062834",
+    "y": "37.4666158741929",
+    "opening_hours": [
+      "매일  00:00 ~ 24:00",
+      "공휴일 00:00 ~ 24:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalad_thumb%2Ft%2F77729f0c7faa07b5d6b5b05c737230b670f92ab6",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalad_thumb%2Ft%2F67df12d236e5ea6d4f488622f4e424831dca272b",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalad_thumb%2Ft%2F9cf24162afa7e07f2f71c96ddf42516a4f0d2259",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalad_thumb%2Ft%2F4820893ec064da86fd11e1a219e9e9472dee101e",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalad_thumb%2Ft%2Fdcd5aa0137ad6324a34d1f6a0074e74419c39b3e"
+    ]
   },
   {
-    "address_name": "서울 강남구 역삼동 792-3",
+    "address_name": "경기 성남시 분당구 정자동 48-10",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
-    "distance": "11726",
-    "id": "1776406358",
-    "phone": "010-5136-8258",
-    "place_name": "요기독 강아지분양 고양이분양 강남본점",
-    "place_url": "http://place.map.kakao.com/1776406358",
-    "road_address_name": "서울 강남구 역삼로14길 15",
-    "x": "127.035810176554",
-    "y": "37.4936251453167"
-  },
-  {
-    "address_name": "경기 성남시 수정구 창곡동 556",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "7786",
-    "id": "1808200906",
-    "phone": "0503-7150-5515",
-    "place_name": "유앤미펫 강아지분양 고양이분양 위례점",
-    "place_url": "http://place.map.kakao.com/1808200906",
-    "road_address_name": "경기 성남시 수정구 위례서일로1길 18",
-    "x": "127.13802426012666",
-    "y": "37.46717652667577"
-  },
-  {
-    "address_name": "경기 성남시 분당구 서현동 255-1",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "2260",
-    "id": "1851364949",
-    "phone": "031-3394-9003",
-    "place_name": "강아지고양이편의점 분당서현점",
-    "place_url": "http://place.map.kakao.com/1851364949",
-    "road_address_name": "경기 성남시 분당구 서현로 170",
-    "x": "127.12199003358693",
-    "y": "37.38880842684132"
-  },
-  {
-    "address_name": "경기 용인시 수지구 죽전동 452-6",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "8429",
-    "id": "2086068313",
-    "phone": "010-2660-7116",
-    "place_name": "펫퍼스트24시강아지분양고양이분양 용인점",
-    "place_url": "http://place.map.kakao.com/2086068313",
-    "road_address_name": "경기 용인시 수지구 정든로6번길 2",
-    "x": "127.11317193522363",
-    "y": "37.32716800187418"
-  },
-  {
-    "address_name": "경기 의왕시 청계동 991-1",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "9702",
-    "id": "2096140684",
-    "phone": "0507-1444-7834",
-    "place_name": "우리강아지",
-    "place_url": "http://place.map.kakao.com/2096140684",
-    "road_address_name": "경기 의왕시 안양판교로 213",
-    "x": "126.994963598133",
-    "y": "37.389754243655"
-  },
-  {
-    "address_name": "서울 송파구 송파동 96-5",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "11089",
-    "id": "273480696",
-    "phone": "02-467-5008",
-    "place_name": "해피애견타운 강아지고양이 서울본점",
-    "place_url": "http://place.map.kakao.com/273480696",
-    "road_address_name": "서울 송파구 송파대로 390",
-    "x": "127.110094115227",
-    "y": "37.5024848176561"
-  },
-  {
-    "address_name": "경기 성남시 분당구 궁내동 249-2",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "3606",
-    "id": "348805079",
-    "phone": "1566-8713",
-    "place_name": "도그마루 강아지 고양이 분당과천점",
-    "place_url": "http://place.map.kakao.com/348805079",
-    "road_address_name": "경기 성남시 분당구 궁내로40번길 40",
-    "x": "127.101203200816",
-    "y": "37.370256133251"
-  },
-  {
-    "address_name": "경기 안양시 동안구 관양동 1474-3",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "11683",
-    "id": "924765834",
-    "phone": "1566-8713",
-    "place_name": "도그마루 강아지 고양이 서초안양점",
-    "place_url": "http://place.map.kakao.com/924765834",
-    "road_address_name": "경기 안양시 동안구 관악대로 436-1",
-    "x": "126.971390789102",
-    "y": "37.4045159347178"
-  },
-  {
-    "address_name": "서울 강남구 역삼동 724-45",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "11983",
-    "id": "1225768077",
-    "phone": "02-556-2212",
-    "place_name": "강남강아지",
-    "place_url": "http://place.map.kakao.com/1225768077",
-    "road_address_name": "서울 강남구 언주로79길 14",
-    "x": "127.042878677581",
-    "y": "37.4993315690811"
-  },
-  {
-    "address_name": "경기 성남시 분당구 금곡동 206",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "5581",
-    "id": "1273715835",
-    "phone": "0503-7150-6465",
-    "place_name": "강아지 고양이 편의점 분당미금역점",
-    "place_url": "http://place.map.kakao.com/1273715835",
-    "road_address_name": "경기 성남시 분당구 정자일로 25",
-    "x": "127.105475044352",
-    "y": "37.3524508122884"
-  },
-  {
-    "address_name": "경기 성남시 분당구 판교동 562-8",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "1370",
-    "id": "1481983086",
-    "phone": "",
-    "place_name": "강아지고양이편의점 서판교점",
-    "place_url": "http://place.map.kakao.com/1481983086",
-    "road_address_name": "경기 성남시 분당구 서판교로44번길 3-1",
-    "x": "127.098094118111",
-    "y": "37.3910859227069"
+    "category_name": "가정,생활 > 반려동물 > 반려동물분양",
+    "distance": "3556",
+    "id": "27323786",
+    "phone": "031-713-3210",
+    "place_name": "해피애견타운 분당판교점",
+    "place_url": "http://place.map.kakao.com/27323786",
+    "road_address_name": "경기 성남시 분당구 백현로156번길 7-1",
+    "x": "127.114974542358",
+    "y": "37.3720419945714",
+    "opening_hours": [
+      "매일  11:00 ~ 21:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F913DB63F4F944189893BAC8FEAA8D1E5",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F85FDBBBBE2914A728BF17D4C407D347F",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FA58639B093454475B4D8A8D17AB5141A",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F26CDE7F6B34A447387412461085239C9",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMjFfMjkx%2FMDAxNzI5NTA3Mzc0ODYz.llHMC-iGQWXzpA6K2D_0Pb9sShgKGKaK49Lv966pCf0g._TUKv06lGg0Im9s_3hExlU-52F-l3d8w8IxGmIlWu-0g.JPEG%2FKakaoTalk_20241021_161549162_17.jpg%3Ftype%3Dw466"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 정자동 65-1",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
     "distance": "3841",
     "id": "1720670553",
     "phone": "",
@@ -445,13 +218,169 @@
     "place_url": "http://place.map.kakao.com/1720670553",
     "road_address_name": "경기 성남시 분당구 느티로 65",
     "x": "127.111845823067",
-    "y": "37.3687724701182"
+    "y": "37.3687724701182",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMjFfMTM0%2FMDAxNzI5NTE2NjExMzI4.O3b243U3JtZwYwz3e9o0kvWp9yVn9gBJuQsHsFqRiOcg.feJ7GBaB7xIDzTMOU26sdJf7ICgba-T_dFajNzDX7dog.JPEG%2FIMG_2508.jpg%3Ftype%3Dw966"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 수정구 신흥동 2467",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
+    "distance": "5713",
+    "id": "1871082627",
+    "phone": "031-756-7709",
+    "place_name": "캉캉펫",
+    "place_url": "http://place.map.kakao.com/1871082627",
+    "road_address_name": "경기 성남시 수정구 산성대로 지하 268-3",
+    "x": "127.14675817204079",
+    "y": "37.44079156795392",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMDRfMzYg%2FMDAxNzMwNzEyMDc4Mzg2.ZHvoyGRCUoLENZ_iLT8bkHNw6cEBNaJfGpDz5Z13aUsg.r28zSE32-J8SQWYOojOm5ussNjYH4eYpqbwZDMxV1a0g.JPEG%2FSE-B196D6DB-F278-411F-ACF6-2F70B1E9FD76.jpg%3Ftype%3Dw773"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 수정구 창곡동 539-15",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
+    "distance": "7887",
+    "id": "2108331223",
+    "phone": "010-9998-1544",
+    "place_name": "헤이펫",
+    "place_url": "http://place.map.kakao.com/2108331223",
+    "road_address_name": "경기 성남시 수정구 위례서일로1길 26",
+    "x": "127.1381232447959",
+    "y": "37.46813869010643",
+    "opening_hours": [
+      "월~금  12:00 ~ 20:00",
+      "토,일  11:00 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F2F869A5BEEED445BBE4E8C9E68E0D76B",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F20A1DA73A99D47A3B0D8956E38EA3973",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMTZfMTEz%2FMDAxNzI5MDMzMDY3MDcw.c0joVPX2waw7K14ojVxr6haDcn9EiFbSHATCWIwAdPsg.RHDUfKc6Fe9WAx7dqPSghTpBrq2frZ-0qkYiyu61pAgg.JPEG%2FDCE4B65E-7004-4226-870E-C98F24096D62.jpg%3Ftype%3Dw773",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMTZfMjkg%2FMDAxNzI5MDMzMDYzNzQ2.qKMfoXLafmmBm7EnqKrRxnZlFF6KUEQ2nBFTJlFi6y4g.WBbBF2uW2WpIRtSpTDbtiM7r3SIhi_lLjaqZFnNqNMwg.JPEG%2FIMG_0876.jpg%3Ftype%3Dw773",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMTZfMTE5%2FMDAxNzI5MDMzMDY1MzIx.Aj4x0Nxd-z2JyuEpSaNF6muBzTZOSPExplpeQwJjWUcg.PlAfvlwQm8v7iwbHoxVSNgjqopsQSiocg2LpEQ9_lrwg.JPEG%2FIMG_0878.jpg%3Ftype%3Dw386"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 수정구 수진동 4660",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
+    "distance": "4506",
+    "id": "221276004",
+    "phone": "010-2978-1759",
+    "place_name": "멍몽",
+    "place_url": "http://place.map.kakao.com/221276004",
+    "road_address_name": "경기 성남시 수정구 모란로 69",
+    "x": "127.12551717565749",
+    "y": "37.43924916833734",
+    "opening_hours": [
+      "월,수,목,금,토  11:00 ~ 20:30",
+      "화  17:00 ~ 20:30",
+      "공휴일 11:00 ~ 20:30"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F79D020D75BC646209AADE1482A444FB1",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA4MjZfMjg3%2FMDAxNzI0NjcyNDYzMzg2.JtXrivmJHKvvRiG2147BAuYUbqO3jeN5MUCrCFmA9pog.PmU3YgMSlhAbR0dFOB1o9EXpYZi93n_3-TZ47GvzQ-4g.JPEG%2FIMG_4636.jpg%3Ftype%3Dw275",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA4MjZfMTk1%2FMDAxNzI0NjcyNDYxMDM5.VasovNDwRiWTZIf1sLbq-1qrwZAlX7oShvVF26Dge-8g.9qrHFCB26s1KF4pPsFVXXLIpuYyX6c2YW5g51PGET28g.JPEG%2FIMG_4634.jpg%3Ftype%3Dw275",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA4MjZfNTcg%2FMDAxNzI0NjcyMzA4MTI1.9ivpCsGpFmgsFyg-mdzXSqP6tlMCmK4U5RNlZQCqaqIg.GULrsCOfHScumByKoUin1XHt3zOPOIhclfCTuOo3fpsg.JPEG%2FIMG_4632.jpg%3Ftype%3Dw275",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA5MDZfMjA2%2FMDAxNzI1NTc5OTMwMjE2.UwoGwaXiMZeuFKpIwVHXVJLQDYERscB5_o_cH9fRFAwg.13JfvdgMEunJ3hlFKT2dMaL9Nq4yF6yOc4EDX8k8TTsg.JPEG%2Foutput_3069718108.jpg%3Ftype%3Dw580"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 분당구 서현동 93",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
+    "distance": "3393",
+    "id": "346678372",
+    "phone": "010-3313-5422",
+    "place_name": "우리동네문멍구",
+    "place_url": "http://place.map.kakao.com/346678372",
+    "road_address_name": "경기 성남시 분당구 중앙공원로40번길 4",
+    "x": "127.129421522659",
+    "y": "37.3803092848764",
+    "opening_hours": [],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 분당구 백현동 577",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
+    "distance": "2075",
+    "id": "37261420",
+    "phone": "010-6838-8435",
+    "place_name": "제아린 판교",
+    "place_url": "http://place.map.kakao.com/37261420",
+    "road_address_name": "경기 성남시 분당구 판교역로14번길 15",
+    "x": "127.110998258641",
+    "y": "37.3850358595435",
+    "opening_hours": [
+      "화~토  13:00 ~ 19:00",
+      "일  14:00 ~ 17:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F3EB3042974014B55AC38FA3D34EE41B2",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F23548518B07C4A9EB6BE81925B1EC228",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzEyMjlfMTAy%2FMDAxNzAzODM1NjAyNDU4.HCwPvUCsUssK37gQB9zIdHModK5jno63EgE2bVl2q_8g.E7jj8HREpIwKT-S76VT6A1MXHvd1F6lVzouyk5wxIF0g.JPEG.asdf3434%2F1703833627796.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzEyMjlfMTIz%2FMDAxNzAzODM1NjAyMDgz.FkG8NIIjJ4NC9fAitSawWuANHNvW7er_Hg_L1d8ZNpcg.JCTkVhgWeR0TsvuLz5laSQy5Ez_FiUJdrSTkF2WPRCkg.JPEG.asdf3434%2F1703833608580.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzEyMjlfMjE5%2FMDAxNzAzODM1NjAzMDU5.xU_tO3qr-HF_0NQ6N5vP0VXBSPYmD5UWpoqDdTpDhEYg.Nxiz0_8fuFRmKz6nvSvx63inxkIhwE1qY9Fg0povpT8g.JPEG.asdf3434%2F1703833645534.jpg%3Ftype%3Dw966"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 분당구 정자동 166-3",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
+    "distance": "4547",
+    "id": "459594936",
+    "phone": "",
+    "place_name": "샤앤시앙부티크",
+    "place_url": "http://place.map.kakao.com/459594936",
+    "road_address_name": "경기 성남시 분당구 정자일로 132",
+    "x": "127.10675921264",
+    "y": "37.3618248518815",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FA1F2FBC396714FADB9A1789E024C31D9",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDAzMTdfMjAg%2FMDAxNzEwNjE0NTc4Mzkz.FEq9BKu2f_tO2dN_HOAREIX7jfJfiTPJgwgQyS9Lj0Qg.81ZmPt_suKW783mPuLMWM5E1Pg0k4HFXrF_3xrhlSHog.JPEG%2FIMG_7145.JPG%3Ftype%3Dw386",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDAzMTdfNTkg%2FMDAxNzEwNjE0NTc2MTAy.WFQmKAA1sfDmH1H8GtG5Q1QlJh9k8TAcx9ysle8Y448g.z9GKK7eO_i_168-h2RqCGoQ42esCE1ff3PrecnWyOLcg.JPEG%2FIMG_7147.JPG%3Ftype%3Dw386",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDAzMTdfMTgy%2FMDAxNzEwNjE0NTczNjcz.3fqpoJf25e4m-TrgiOURG4RSNpHaUNnGAX6PucJaZmkg.VqP8hPzhz2VeJ4czF1mmfE4yff1aeMBvXJowfoXiAIwg.JPEG%2FIMG_7150.JPG%3Ftype%3Dw386",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDAzMTdfMjQ5%2FMDAxNzEwNjE0NTcwNjYz.wRNUcdsVTpCR69veIqTt9EgBhkT4a3_AaR0KOvpQebsg.i2nDhmREldh9ozNXXwrypDMxw8NyJVzPWP19iX2AiXYg.JPEG%2FIMG_7151.JPG%3Ftype%3Dw386"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 중원구 여수동 583",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
+    "distance": "3131",
+    "id": "479961765",
+    "phone": "",
+    "place_name": "반짝반짝",
+    "place_url": "http://place.map.kakao.com/479961765",
+    "road_address_name": "경기 성남시 중원구 양현로 465",
+    "x": "127.13375037214",
+    "y": "37.4171102734691",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F20bed50e5e796f47a139d81d87972c70121e4977%3Foriginal"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 구미동 63",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
     "distance": "6338",
     "id": "499992729",
     "phone": "010-7597-7107",
@@ -459,132 +388,409 @@
     "place_url": "http://place.map.kakao.com/499992729",
     "road_address_name": "경기 성남시 분당구 미금일로 58",
     "x": "127.113146229762",
-    "y": "37.3461392260464"
+    "y": "37.3461392260464",
+    "opening_hours": [
+      "매일  00:00 ~ 24:00",
+      "공휴일 00:00 ~ 24:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F6D9DB88B7AD44042B409ED43084E1990",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FFD380AA5B6154843A2F35C37C6E8DEA0",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F4F6D4A4CA1C94E7D854EB3E5F280336F",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F783FBFD5401B4500B7BE7D479080ABCD",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FEC9A19FA50424960B6AD085AC8E92CF7"
+    ]
   },
   {
-    "address_name": "경기 성남시 분당구 판교동 621-2",
+    "address_name": "경기 성남시 분당구 정자동 54-1",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
-    "distance": "1896",
-    "id": "570016229",
-    "phone": "010-3696-2113",
-    "place_name": "강아지고양이편의점 판교점",
-    "place_url": "http://place.map.kakao.com/570016229",
-    "road_address_name": "경기 성남시 분당구 운중로 233",
-    "x": "127.088961697068",
-    "y": "37.3900335431561"
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
+    "distance": "3698",
+    "id": "658851881",
+    "phone": "031-711-7119",
+    "place_name": "애견수제간식 드루와",
+    "place_url": "http://place.map.kakao.com/658851881",
+    "road_address_name": "경기 성남시 분당구 내정로113번길 4",
+    "x": "127.114843749222",
+    "y": "37.370670761132",
+    "opening_hours": [
+      "매일  11:00 ~ 21:00",
+      "공휴일 11:00 ~ 21:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzExMDFfMjU2%2FMDAxNjk4ODM4OTg3ODIz.XkTjg-gcTtjgMXA4uB28DZMC-utn6RmaWbPzzw_EKQwg.kh7ioFo8c7lo9DVUQzqF4tpwVKrzuIb3rdRNStTNVUIg.JPEG.god5374439%2F20231101%25EF%25BC%25BF170630.jpg%3Ftype%3Dw386"
+    ]
   },
   {
-    "address_name": "경기 의왕시 포일동 537-6",
+    "address_name": "경기 성남시 분당구 야탑동 518-3",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
-    "distance": "10975",
-    "id": "649965827",
-    "phone": "031-425-8886",
-    "place_name": "예쁜강아지",
-    "place_url": "http://place.map.kakao.com/649965827",
-    "road_address_name": "경기 의왕시 흥안대로434번길 91",
-    "x": "126.980124856421",
-    "y": "37.3918502617613"
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
+    "distance": "2815",
+    "id": "758327245",
+    "phone": "010-7141-2531",
+    "place_name": "올리브펫",
+    "place_url": "http://place.map.kakao.com/758327245",
+    "road_address_name": "경기 성남시 분당구 매화로 14",
+    "x": "127.13420993807804",
+    "y": "37.40876721977726",
+    "opening_hours": [
+      "매일  10:30 ~ 20:00",
+      "공휴일 10:30 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FB2B752165628487298125335488212AB",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FFD3359A58D72432BA39AA3EF2D68F157",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F2E0D05B8CC38481C8660575A7773E647",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F12A45850C08A44DC986C2DE6194250B4",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2Facadb4d4dea37cb1303dc72ed0c1c0fa8132a553%3Foriginal"
+    ]
   },
   {
-    "address_name": "경기 성남시 수정구 태평동 3200-2",
+    "address_name": "경기 성남시 분당구 금곡동 147",
     "category_group_code": "",
     "category_group_name": "",
-    "category_name": "etc",
-    "distance": "5435",
-    "id": "829663855",
-    "phone": "031-755-8384",
-    "place_name": "행복한강아지",
-    "place_url": "http://place.map.kakao.com/829663855",
-    "road_address_name": "경기 성남시 수정구 탄리로96번길 3",
-    "x": "127.135411659447",
-    "y": "37.4444731405115"
-  },
-  {
-    "address_name": "서울 서초구 방배동 831-15",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "13954",
-    "id": "9533715",
-    "phone": "02-535-2345",
-    "place_name": "방배동강아지",
-    "place_url": "http://place.map.kakao.com/9533715",
-    "road_address_name": "서울 서초구 방배중앙로 106",
-    "x": "126.988348992042",
-    "y": "37.4887573497561"
-  },
-  {
-    "address_name": "경기 광주시 신현동 709-36",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "6401",
-    "id": "22052162",
-    "phone": "070-7798-4286",
-    "place_name": "장보는강아지와고양이 분당오포점",
-    "place_url": "http://place.map.kakao.com/22052162",
-    "road_address_name": "경기 광주시 태재로 25",
-    "x": "127.15198289355476",
-    "y": "37.36005533004381"
-  },
-  {
-    "address_name": "경기 성남시 분당구 금곡동 354-6",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "5347",
-    "id": "26904464",
-    "phone": "070-8835-1100",
-    "place_name": "장보는강아지와고양이 분당궁내점",
-    "place_url": "http://place.map.kakao.com/26904464",
-    "road_address_name": "경기 성남시 분당구 대왕판교로 123",
-    "x": "127.101322070257",
-    "y": "37.354549332703"
-  },
-  {
-    "address_name": "경기 용인시 수지구 죽전동 1342-1",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "8769",
-    "id": "43321684",
-    "phone": "031-266-7598",
-    "place_name": "장보는강아지와고양이 용인단국대점",
-    "place_url": "http://place.map.kakao.com/43321684",
-    "road_address_name": "경기 용인시 수지구 죽전로168번길 6",
-    "x": "127.124912675762",
-    "y": "37.3255928991757"
-  },
-  {
-    "address_name": "경기 성남시 분당구 구미동 205-5",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "7404",
-    "id": "438634037",
-    "phone": "010-8491-0502",
-    "place_name": "장보는강아지와고양이 분당구미점",
-    "place_url": "http://place.map.kakao.com/438634037",
-    "road_address_name": "경기 성남시 분당구 미금로 36",
-    "x": "127.116785092762",
-    "y": "37.3368640927248"
-  },
-  {
-    "address_name": "서울 서초구 양재동 4-15",
-    "category_group_code": "",
-    "category_group_name": "",
-    "category_name": "etc",
-    "distance": "10255",
-    "id": "509642870",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
+    "distance": "5775",
+    "id": "774800654",
     "phone": "",
-    "place_name": "장보는강아지와고양이 양재점",
-    "place_url": "http://place.map.kakao.com/509642870",
-    "road_address_name": "서울 서초구 바우뫼로 213",
-    "x": "127.04175341304",
-    "y": "37.4809892600948"
+    "place_name": "네코마켓 미금점",
+    "place_url": "http://place.map.kakao.com/774800654",
+    "road_address_name": "경기 성남시 분당구 성남대로172번길 12",
+    "x": "127.110468420839",
+    "y": "37.3509802815929",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA5MDFfMTAz%2FMDAxNzI1MTcxNzc0MjMw.m0Da462YqwODgoNrP6Pp3tjdSKg_iEaHZDYtK2TTVkQg.6v44fQhAnsDVfWFdPd9H0MSUgr6appxefuvnaSHRpJIg.JPEG%2F%25EB%25BF%258C%25EB%2593%25AF%25ED%258E%2598%25ED%258E%2598.jpg%3Ftype%3Dw773"
+    ]
+  },
+  {
+    "address_name": "경기 용인시 수지구 동천동 88-1",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
+    "distance": "6277",
+    "id": "823644169",
+    "phone": "031-214-7997",
+    "place_name": "비커밍스튜디오",
+    "place_url": "http://place.map.kakao.com/823644169",
+    "road_address_name": "경기 용인시 수지구 고기로129번길 8",
+    "x": "127.08895868167738",
+    "y": "37.3473222144613",
+    "opening_hours": [
+      "매일  10:00 ~ 17:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F38766475931740AD9DECE5362C669758",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F4D77AEA4ECCC4CC396FD4EF3582C7DEE",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F19B3ED067C0D441BB6EE2EBE5CEEE5C6",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F95C8FA9E4AD24E5FB2F7861D59969625",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FDE303645CEF24B8097062127C51F37AB"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 중원구 하대원동 100-10",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품",
+    "distance": "3748",
+    "id": "8906858",
+    "phone": "031-751-0118",
+    "place_name": "대한종합사료",
+    "place_url": "http://place.map.kakao.com/8906858",
+    "road_address_name": "경기 성남시 중원구 성남대로 1112",
+    "x": "127.129866897528",
+    "y": "37.4290323586617",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA0MDdfMTIx%2FMDAxNzEyNDY0NzcxODM1.M_GZwfGnHKFfM2ijlT1SClouAE1VdEEcsSvJ2xcu6oUg.LNnMPaMV0sVkJX_Ls6nnIoXL7E-2XbY5fx8EFfu3Gucg.JPEG%2F20240405%25EF%25BC%25BF113138.jpg%3Ftype%3Dw773"
+    ]
+  },
+  {
+    "address_name": "서울 송파구 문정동 618",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품 > 견생냥품",
+    "distance": "8851",
+    "id": "435518542",
+    "phone": "",
+    "place_name": "견생냥품 송파문정동점",
+    "place_url": "http://place.map.kakao.com/435518542",
+    "road_address_name": "서울 송파구 송파대로 111",
+    "x": "127.12466378650005",
+    "y": "37.48062903331708",
+    "opening_hours": [
+      "매일  00:00 ~ 24:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FBB6513F052AB411D8A866CFF8273B505",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA2MjdfMTY2%2FMDAxNzE5NDk1ODI2ODA2.3AYm6HIimlWZ9kjGS4Ib_jU1-7dyil4whXNRM8lJoQIg.gSO7G5NFr3xbD9VopQB0pgEifF-FD05hsn-UMXldjWsg.JPEG%2F1719495798216.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA2MjdfMTQx%2FMDAxNzE5NDk1ODI3MDEy.8aF0-QNfHG7676ohJNz9dfKAdMNwPpIs48QULdWfSccg.IlmaQVDZj1R8V9SEGDftDPLaNwjjL_G353MYa8eR_WMg.JPEG%2F1719495733392.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA2MjdfMzEg%2FMDAxNzE5NDk1ODI2OTE5.nrToQzNOor6obeJz8FX1p_QoVd1vjpSVcC4MIdDItTwg.3i3wTDWZyJeQnExdwl3HWYmdJm6zuqo8W26vZMjpAqwg.JPEG%2F1719495733550.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA2MjdfNDIg%2FMDAxNzE5NDk1ODI3MDAy.6f3D9rsMbFBN6B9g8GNjcjzic2W7ip5A9rvwFoLDHoMg.Um6hki4m74r6Bqcard3FftcvU2j6T9HesVJQ2VfQQGMg.JPEG%2F1719495733442.jpg%3Ftype%3Dw966"
+    ]
+  },
+  {
+    "address_name": "경기 용인시 수지구 동천동 937",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품 > 멍냥의민족",
+    "distance": "7360",
+    "id": "1679765749",
+    "phone": "0507-1387-0446",
+    "place_name": "멍냥의민족 수지동천점",
+    "place_url": "http://place.map.kakao.com/1679765749",
+    "road_address_name": "경기 용인시 수지구 동천로 137",
+    "x": "127.088640080795",
+    "y": "37.3374354522775",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F355E5E39B2494B96A2DE68821A762827",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA1MTdfMTUx%2FMDAxNzE1OTMyMjg0Mjk0.c2dhkx275QxhhqUdSEzAsx6HWq8QkI9HEhaAENUSHq0g.LUGIf__Zoftc8RlYap-G5Ji9GP-j3sowtHl78LacJeYg.JPEG%2F1715932283690.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA1MTdfMTQg%2FMDAxNzE1OTI0NjY2NjYz.6Kg-gC6KbYvMQ_DT372NXC2S19QeaJrn3B8Ty1O9ESYg.FmDDsC9PwppPA7XEw5dCF-LvHSIkmmOpWRpoAe-vcqAg.JPEG%2F20240517%25EF%25BC%25BF125608.jpg%3Ftype%3Dw466",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA1MTdfMTI4%2FMDAxNzE1OTI0NjY2MTg0.razFR6xQPd3uuFoiYOT_rCldE34dl0AhZeqZu2x97z0g.RDMgWLizxI_BL5mPwfmHS6UxIhzUpJmN0ngm9Zk-fUog.JPEG%2F20240517%25EF%25BC%25BF125543.jpg%3Ftype%3Dw466",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA1MTdfMjky%2FMDAxNzE1OTI0NjY1ODUw.5mOVdHu1_pXvl9ILqqEq_hMyZtTroK_Y--Fl3DY41Ykg.XvdyM_4jjualWa9zlCaG_R8SdRG9Ncl4_P-uEHepgNkg.JPEG%2F20240517%25EF%25BC%25BF125524.jpg%3Ftype%3Dw466"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 수정구 단대동 111-3",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품 > 멍냥의민족",
+    "distance": "7156",
+    "id": "919844109",
+    "phone": "0507-1387-4051",
+    "place_name": "멍냥의민족 남한산성역점",
+    "place_url": "http://place.map.kakao.com/919844109",
+    "road_address_name": "경기 성남시 수정구 산성대로 423",
+    "x": "127.158648868295",
+    "y": "37.4497331819865",
+    "opening_hours": [
+      "화~토  09:00 ~ 20:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2FD8BD8873C5434456AC46E801EC946C67",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA0MDhfODAg%2FMDAxNzEyNTU5MTkzNjg0.1sKb1nhEfmpSEN9N0tXCqTEb6nkeqntoCvvUz6II_ksg.bs2S2W1P9p_LVJpU-091Kz-Xaq6L_obX5ZTngQ2uhiMg.JPEG%2F20240406%25EF%25BC%25BF184442.jpg%3Ftype%3Dw466",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA0MDhfMTY0%2FMDAxNzEyNTU5MTkzMzc2.BH_3FDnIkZvDJqV5MDFHI7TsQQLxfc64E8QINraFfsgg.PTI-T5AWobo94UiWPcsplnVEJZcI68DgAd0XPji2Wicg.JPEG%2F20240406%25EF%25BC%25BF175419.jpg%3Ftype%3Dw466",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA0MDhfMTg5%2FMDAxNzEyNTU5MTkyOTE1.qkTLjjszWgFbqhdgKBn3kCzdm6HUbUuOWdlKIX6olMkg.wE0OxHm6TV6tt4MZEEPk0OF15U19iHnOz9cI0gNqnWcg.JPEG%2F20240406%25EF%25BC%25BF173910.jpg%3Ftype%3Dw466",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA0MDhfMjcy%2FMDAxNzEyNTU5MTkxNjg4.CKdxMSPvlGCM5gOCFhVq60bEkQG-tQK6M1WsDR-eyp0g.xb9MxY_5SO6cmq3q9dj9OZqNIYDb9WNUc7weeqPzE4sg.JPEG%2F20240406%25EF%25BC%25BF173823.jpg%3Ftype%3Dw466"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 분당구 삼평동 744",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품 > 씨유펫",
+    "distance": "1355",
+    "id": "1651696448",
+    "phone": "",
+    "place_name": "씨유펫 동판교점",
+    "place_url": "http://place.map.kakao.com/1651696448",
+    "road_address_name": "경기 성남시 분당구 동판교로 156",
+    "x": "127.11711724523693",
+    "y": "37.39739648836694",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzA3MTZfMzkg%2FMDAxNjg5NDQxMjQwODEy.679k7-djGxGxCBEPa5Sgwaql0Mlr-ysJj4pmdACIApIg.8GZ4CBt-kqLAayTjRsykbvfgdo3a1dbUdQ5qQ1aSvcAg.JPEG.boradong7%2F1_(91).jpg%3Ftype%3Dw275"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 분당구 야탑동 382-1",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품 > 씨유펫",
+    "distance": "2891",
+    "id": "1839030186",
+    "phone": "",
+    "place_name": "씨유펫 야탑점",
+    "place_url": "http://place.map.kakao.com/1839030186",
+    "road_address_name": "경기 성남시 분당구 매화로 55",
+    "x": "127.13360883771",
+    "y": "37.412473792296",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzAyMjhfMTUg%2FMDAxNjc3NTgyMTQ0MTI0.xmjevgNzMESZggfiVSNnRt5dZzvTPO2GMR3LGivuC28g.IbTTIRJHbePns_hwvjUO2ix9zjWfgKyIeiWcBaBViQEg.JPEG.heren4586%2F1_(96).jpg%3Ftype%3Dw773"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 분당구 운중동 963",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품 > 씨유펫",
+    "distance": "2585",
+    "id": "2056819522",
+    "phone": "",
+    "place_name": "씨유펫 서판교점",
+    "place_url": "http://place.map.kakao.com/2056819522",
+    "road_address_name": "경기 성남시 분당구 운중로 129",
+    "x": "127.077417182712",
+    "y": "37.3919635456527",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzAzMDNfMjIw%2FMDAxNjc3ODA0Mzg2NTQ0.EeB6_9ZmfN1HnIo77urokjIGbkkec69lE3ShLI2WbyMg.nxqLVtqiBlX3h2mlogv0uH0MKb7QJlDP3zc6FUKlR3Ag.JPEG.heren4586%2F1_(95).jpg%3Ftype%3Dw773"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 중원구 성남동 4143",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품 > 씨유펫",
+    "distance": "4025",
+    "id": "606100580",
+    "phone": "",
+    "place_name": "씨유펫 성남모란점",
+    "place_url": "http://place.map.kakao.com/606100580",
+    "road_address_name": "경기 성남시 중원구 성남대로 1153",
+    "x": "127.128671259462",
+    "y": "37.4328287458983",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA4MTZfMjIw%2FMDAxNzIzNzgzMzA0MjM1.MqPjWdk0eMz8OvjV-fUAVQZoRiqDo3F8QqJA0_wtgr0g.mHb7sL5BGWlwoV3UliLWWv7cU0gUmlSgOOu5J7HE6ksg.JPEG%2Foutput_2267190789.jpg%3Ftype%3Dw773"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 중원구 금광동 4",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품 > 아무도없개",
+    "distance": "6681",
+    "id": "136263013",
+    "phone": "0503-7150-2317",
+    "place_name": "아무도없개 단대오거리점",
+    "place_url": "http://place.map.kakao.com/136263013",
+    "road_address_name": "경기 성남시 중원구 희망로 444",
+    "x": "127.15749447721045",
+    "y": "37.4446331886102",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMTlfMzcg%2FMDAxNzMyMDIwMzU2MDI0.Ld0D3zAi10qAYkPRAa1QDnrZ4-4UKf1nKZWOMKDDijMg.ckw4tONZRd-5TbYYvFoXAM6Ku5sHNFceQPZipiSLBicg.JPEG%2F20241116_220842.jpg%3Ftype%3Dw386"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 수정구 창곡동 530",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품 > 아무도없개",
+    "distance": "8260",
+    "id": "2067279643",
+    "phone": "1644-9896",
+    "place_name": "아무도없개 위례점",
+    "place_url": "http://place.map.kakao.com/2067279643",
+    "road_address_name": "경기 성남시 수정구 위례광장로 70",
+    "x": "127.141216415273",
+    "y": "37.4707308441356",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F2C00D9BFA9E449B6ADE56721FB99FED4",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F259d60a743adf4bfef90b493a36e14b5f75bdbbc%3Foriginal",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F93e2816828388a9edd8efc073ea03ba4e94b61e6%3Foriginal",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F162b8564050ebaa8840f10cc1bee0ca7354ff99b%3Foriginal",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Fdinnerqueen.net%2Freviews%2Fimage%2F349084_footer.jpg"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 수정구 신흥동 3758",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품 > 아무도없개",
+    "distance": "5697",
+    "id": "222847480",
+    "phone": "0507-1329-9231",
+    "place_name": "아무도없개 성남신흥점",
+    "place_url": "http://place.map.kakao.com/222847480",
+    "road_address_name": "경기 성남시 수정구 시민로156번길 7-1",
+    "x": "127.144123872456",
+    "y": "37.4424229422799",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FED42AD0524B74D6CA9A8290188B801FD",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FF250C5AE33F044BB802BE39AA5CF4412",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F686C1E36BDEB41E993641EFCD169ED51",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F3359B32E96A04F02BFDE507033F96141",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FE3646BEA3BD7414BAB45F1811B7B09AE"
+    ]
+  },
+  {
+    "address_name": "경기 용인시 수지구 동천동 371-5",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품 > 아무도없개",
+    "distance": "6926",
+    "id": "355503358",
+    "phone": "0507-1357-3073",
+    "place_name": "아무도없개 수지동천점",
+    "place_url": "http://place.map.kakao.com/355503358",
+    "road_address_name": "경기 용인시 수지구 동천로 39",
+    "x": "127.098713159947",
+    "y": "37.3404035800254",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FE7EED1E752434C038801ADF1AFA1C7BD",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F2A0BB562EE12416F9616F4C3D128F18E",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FCD99B127395742EA8F12317C0042F30D",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F4E22FF15DE744BF3B8E7DB8C9D9BA463",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FF28773C634C64F93B867AC04B8E5AAC3"
+    ]
+  },
+  {
+    "address_name": "경기 용인시 수지구 죽전동 1254-3",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물용품 > 아무도없개",
+    "distance": "8266",
+    "id": "619030017",
+    "phone": "010-3959-3192",
+    "place_name": "아무도없개 용인죽전점",
+    "place_url": "http://place.map.kakao.com/619030017",
+    "road_address_name": "경기 용인시 수지구 대지로 58",
+    "x": "127.11556879569503",
+    "y": "37.32887043747454",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA3MDhfMjE2%2FMDAxNzIwNDE2ODY4MjQ0.xTb_KXwtKqoQmRSJaY_vUgVlD0FhhxgtvoDmBsm71xcg.-Td8kAE8dRBSXzXPMmW2jYjxaCBmZaGmIKir0aKhACgg.JPEG%2FIMG_3275.JPG%3Ftype%3Dw773"
+    ]
+  },
+  {
+    "address_name": "경기 용인시 수지구 동천동 484-38",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물훈련소",
+    "distance": "7329",
+    "id": "1007540982",
+    "phone": "010-4332-3514",
+    "place_name": "헬로우버디",
+    "place_url": "http://place.map.kakao.com/1007540982",
+    "road_address_name": "경기 용인시 수지구 동천로192번길 4",
+    "x": "127.082890882776",
+    "y": "37.3387127761719",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F132C6A728B10430DBA058EFC14C58801",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FE2B4B70F883C4D40AC0A83D6B90CF953",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FE0F57D6C38284B9EBFA6C3E184563507",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F7A12ECF228F840ADA1AF81A2F1FCD433",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FA838F83B996847C9851BAD8374E82732"
+    ]
+  },
+  {
+    "address_name": "경기 성남시 수정구 창곡동 524",
+    "category_group_code": "",
+    "category_group_name": "",
+    "category_name": "가정,생활 > 반려동물 > 반려동물훈련소",
+    "distance": "8427",
+    "id": "1868374146",
+    "phone": "0502-5550-8967",
+    "place_name": "멍클래스",
+    "place_url": "http://place.map.kakao.com/1868374146",
+    "road_address_name": "경기 성남시 수정구 위례순환로4길 37",
+    "x": "127.148628621733",
+    "y": "37.4694972810075",
+    "opening_hours": [
+      "월~금  09:00 ~ 18:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMjEwMjRfOSAg%2FMDAxNjY2NTY3MDgzODg1.DPL4XJ1d-_eZ9j9FEA9jlakBgxPWc6qPMKFo5hiPW2Ug.pBYrmdGLviwupO5a9k-kHs74hFm7DVM1kcYZudEvTOcg.JPEG.theplan45%2F20221023%25EF%25BC%25BF143239.jpg%3Ftype%3Dw966"
+    ]
   }
 ]

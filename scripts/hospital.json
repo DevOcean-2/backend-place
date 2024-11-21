@@ -11,7 +11,18 @@
     "place_url": "http://place.map.kakao.com/10098971",
     "road_address_name": "경기 성남시 중원구 둔촌대로 155",
     "x": "127.1359192062586",
-    "y": "37.42956075827466"
+    "y": "37.42956075827466",
+    "opening_hours": [
+      "월~금  10:00 ~ 20:00",
+      "토  09:30 ~ 19:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F262F6BFEEE7D448182F6A9926FEF9081",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F9ED363EF003F4615AF88536538F223BB",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FFFE36A536236497BA9F125C2AA7FE9CF",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FBAB69CB8B2774403AD500D76BF7582CD",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FFB0AA698E6F34785B7AE2EFE06EC12D4"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 이매동 115-1",
@@ -25,7 +36,11 @@
     "place_url": "http://place.map.kakao.com/10444676",
     "road_address_name": "경기 성남시 분당구 양현로 126",
     "x": "127.12559794365622",
-    "y": "37.39492529291639"
+    "y": "37.39492529291639",
+    "opening_hours": [],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 백현동 597-2",
@@ -39,7 +54,18 @@
     "place_url": "http://place.map.kakao.com/1045375906",
     "road_address_name": "경기 성남시 분당구 동판교로52번길 8",
     "x": "127.114239129241",
-    "y": "37.387375433159"
+    "y": "37.387375433159",
+    "opening_hours": [
+      "월~금  10:00 ~ 19:00",
+      "토  10:00 ~ 17:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F0E042DFB06094B1FB13961BC208AE8BD",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F6B3B1029D3CD435A977900C84C5C499C",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F2D7BA00BD130443491B130A36B64040A",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F206442C26EC94313A7BCF8EF9EE904B5",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F21F861997EDC489C8D51D7CF1A4AD1DA"
+    ]
   },
   {
     "address_name": "경기 성남시 중원구 여수동 312",
@@ -53,7 +79,19 @@
     "place_url": "http://place.map.kakao.com/1095598649",
     "road_address_name": "경기 성남시 중원구 성남대로997번길 51-16",
     "x": "127.125946680606",
-    "y": "37.4170602783103"
+    "y": "37.4170602783103",
+    "opening_hours": [
+      "수~토  10:00 ~ 19:00",
+      "화  17:00 ~ 20:00",
+      "수~토 휴게시간  12:30 ~ 13:30"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FDD9AEFC7420647C087581216E1323717",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F57619C9EFCC940C9A871D0BF5B1F8E8D",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FBA057CB115F047CABB031822123412E8",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FBC7288F5150346E4A9D4BEBE8AAE525C",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F93026FD8B85E4102B5479236732A7DA4"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 야탑동 274-3",
@@ -67,7 +105,15 @@
     "place_url": "http://place.map.kakao.com/1153640768",
     "road_address_name": "경기 성남시 분당구 벌말로 33",
     "x": "127.1379301892366",
-    "y": "37.4110154862901"
+    "y": "37.4110154862901",
+    "opening_hours": [
+      "월,화,목,금  10:00 ~ 19:00",
+      "토  10:00 ~ 14:00",
+      "월,화,목,금 휴게시간  13:00 ~ 14:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2Fsearchregister_315370365"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 백현동 545",
@@ -81,7 +127,15 @@
     "place_url": "http://place.map.kakao.com/11738464",
     "road_address_name": "경기 성남시 분당구 동판교로 122",
     "x": "127.117119538659",
-    "y": "37.3923381503018"
+    "y": "37.3923381503018",
+    "opening_hours": [
+      "월~금  10:00 ~ 19:00",
+      "토  10:00 ~ 18:00",
+      "월~금 휴게시간  12:30 ~ 13:30"
+    ],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
   },
   {
     "address_name": "경기 성남시 수정구 시흥동 288-2",
@@ -95,7 +149,19 @@
     "place_url": "http://place.map.kakao.com/1196148640",
     "road_address_name": "경기 성남시 수정구 창업로 17",
     "x": "127.09848761365718",
-    "y": "37.41219020599154"
+    "y": "37.41219020599154",
+    "opening_hours": [
+      "월~금  09:00 ~ 17:30",
+      "토  08:30 ~ 15:30",
+      "공휴일 08:30 ~ 18:30"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2FEEF75007097042428D03065F026E785D",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzEwMTlfMTY1%2FMDAxNjk3Njc4MzgzOTgy.IIGrmMn4lChwBEbD0KHdcyvfJtS0T4wYXPj5k-2p5G8g.WpL3H6Qs5G2LL7tz19ompFE9WVZWtEryV-KlIAMT4X4g.JPEG.kkikki623%2Foutput_668847126.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzEwMTlfMjk2%2FMDAxNjk3NzE0NDk3MzY0.UTllzNmyotLltvCG8UhKcW1euv_v79h8mawviXr_N1cg._9MhJyPTK3V9ADd3yed7VP9Jw-MngNHhHtvkmc-v3DYg.JPEG.kkikki623%2FIMG_8869.JPG%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzEwMThfMjcz%2FMDAxNjk3NjE0NzI0OTQ4.RX_4w5pas_TleG_4u1BfYOeZYkNpKfMkQE8cKGn5H-gg.Hi2b9XomYTbjsyTHG5uZlqi2_tnK3NyWeOU-YIZOArEg.JPEG.kkikki623%2FIMG_8881.JPG%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzEwMThfMTMx%2FMDAxNjk3NjE0NzI0OTE2.StqkMXVM7ViqI8zdideVEfmRS10EF8pDioo1DbKoxqMg.Xj8mLQhLDUWwy6sUKAYr7TVNL8Rw1XPnI6i2le1Fov4g.JPEG.kkikki623%2FIMG_8871.JPG%3Ftype%3Dw966"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 야탑동 291-4",
@@ -109,7 +175,14 @@
     "place_url": "http://place.map.kakao.com/12260008",
     "road_address_name": "경기 성남시 분당구 매화로 40",
     "x": "127.134078606015",
-    "y": "37.411129841223"
+    "y": "37.411129841223",
+    "opening_hours": [
+      "월~토  10:00 ~ 19:00",
+      "월~토 휴게시간  13:00 ~ 14:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzU2Mm%2Fbtsn12ICZH2%2FuY3WLrIbIadd3DW3YWgQk1%2Fimg.png"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 수내동 58-1",
@@ -123,7 +196,19 @@
     "place_url": "http://place.map.kakao.com/1239352855",
     "road_address_name": "경기 성남시 분당구 내정로 170",
     "x": "127.11962817712741",
-    "y": "37.37347181107122"
+    "y": "37.37347181107122",
+    "opening_hours": [
+      "월~금  09:00 ~ 19:00",
+      "토  09:00 ~ 17:00",
+      "화~금 휴게시간  13:00 ~ 14:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F5EDF471436F84DD2BE69A4A7818E9C80",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F8DB75F6EBF4A47628E222107BE040131",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F619F81B774ED400C9EFC5855F5F44024",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F96636695022D469AADC9FACACE1800E1",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F6AA9CE76C178409D80F7359CF78D8340"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 판교동 621-2",
@@ -137,7 +222,11 @@
     "place_url": "http://place.map.kakao.com/12727997",
     "road_address_name": "경기 성남시 분당구 운중로 233",
     "x": "127.08895375937871",
-    "y": "37.39000561742531"
+    "y": "37.39000561742531",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA4MTRfMjA1%2FMDAxNzIzNjQxMTU3MTY3.39qbPV_RVNcSpDbYPVtgEbnwu5ckpBSMCPkYUoOvRnMg.8FLJ26qLss5R0t8IgK6Lu9p7isMJgNCW7FujNBH7v4Ug.JPEG%2F20240814%25EF%25BC%25BF143455.jpg%3Ftype%3Dw275"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 이매동 137-4",
@@ -151,7 +240,11 @@
     "place_url": "http://place.map.kakao.com/12743520",
     "road_address_name": "경기 성남시 분당구 성남대로779번길 52",
     "x": "127.12284065845778",
-    "y": "37.3993846407598"
+    "y": "37.3993846407598",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA4MTdfNTgg%2FMDAxNzIzODkzMzY4MjM1.de24Kp6QJRIOj2TK3iI2u9KD9kcCisgJspifotSBl3Ig.JpJi3DLKGNkCBSM-pXh6dXhfM5m4T1T9QaIKMM4YTzog.JPEG%2FIMG_4311.jpg%3Ftype%3Dw386"
+    ]
   },
   {
     "address_name": "경기 성남시 중원구 성남동 4700",
@@ -165,7 +258,11 @@
     "place_url": "http://place.map.kakao.com/12984999",
     "road_address_name": "경기 성남시 중원구 둔촌대로63번길 11",
     "x": "127.12574158221842",
-    "y": "37.43086948585432"
+    "y": "37.43086948585432",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzEwMjNfNDQg%2FMDAxNjk4MDI5Nzc0MTE3.-IjTumY2U-DuD7fK7jafzxWl4QZkA6gYM7lt9PNIxcYg.0Lq_vcuK5RsOcDJOUX6pK6ln1V1qJvfcLvC7lsKSQEgg.JPEG.ecoparty89%2FIMG_0139.JPG%3Ftype%3Dw386"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 서현동 255-1",
@@ -179,7 +276,19 @@
     "place_url": "http://place.map.kakao.com/13605383",
     "road_address_name": "경기 성남시 분당구 서현로 170",
     "x": "127.122643956422",
-    "y": "37.3895646093683"
+    "y": "37.3895646093683",
+    "opening_hours": [
+      "월~금  09:00 ~ 22:00",
+      "토  09:30 ~ 19:30",
+      "일  10:00 ~ 19:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F1676D033D45145C5BD1A6B8E75C19964",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FA13101CD368F4CBA9418235E0EDE6062",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F6AD21EAB894B48B5B30D6C51C56712DE",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FE7CE8B8B5C974106B942AD27613D9205",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F9D9E44E7FC8B43F19C5D8D53456E986E"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 수내동 20-6",
@@ -193,7 +302,18 @@
     "place_url": "http://place.map.kakao.com/1366402427",
     "road_address_name": "경기 성남시 분당구 백현로101번길 11",
     "x": "127.111978971051",
-    "y": "37.37708339954"
+    "y": "37.37708339954",
+    "opening_hours": [
+      "월~토  09:00 ~ 19:00",
+      "월~토 휴게시간  12:00 ~ 13:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F0A0B7BF239AC46448951EEA3AF3AF6E5",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzExMDVfMTYx%2FMDAxNjk5MTY0MDgwMzI0.KctftoFyPJ8P7UvpW2VDZUlZEx_S1FYrkpHkbehWTmQg.NTn0ER-EmaYivlE5-1sYro6Tjc8Gkk_iqROBNRmHEEMg.JPEG.gsdtiren%2F1699164078463.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzExMDVfNzkg%2FMDAxNjk5MTY0MDgwNDY3.HkxOt0GXIoPNKFEZNeKLTKVTzPR5CMfTAVoy7HJNp74g.bXdOl4acFyjubCKUdH1QhnhmoPCbYXRN_5KljcLdirkg.JPEG.gsdtiren%2F1699164077731.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzExMDVfMTQx%2FMDAxNjk5MTY0MDgwMjI4.Viqea02noPeMVuUs7n4wDlN1_4yvXmZnE23R2mtBdBsg.0DhJtfg5T6pTCgWHIuUFVPGtd9hWf9H-O7MOHYxEHQgg.JPEG.gsdtiren%2F1699164077125.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMzExMDVfMjE1%2FMDAxNjk5MTY0MDgwNDY3.S3zQPm6ttg3ugXB6Y7APPFJOcXlShMOkNY2TEftJrD0g.jzv18glmQGqF1TyGMjVYj8wONYuS9UmNEf59WC8HZxkg.JPEG.gsdtiren%2F1699164076540.jpg%3Ftype%3Dw966"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 이매동 106-3",
@@ -207,7 +327,18 @@
     "place_url": "http://place.map.kakao.com/1442641295",
     "road_address_name": "경기 성남시 분당구 성남대로779번길 17",
     "x": "127.126463056511",
-    "y": "37.3989924820036"
+    "y": "37.3989924820036",
+    "opening_hours": [
+      "월~금  10:00 ~ 20:00",
+      "토  10:00 ~ 18:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F9205DAEBABCB48CF92E1C778076DB2E4",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F3FAB6D18B6B946A48B8625FCD05397B2",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F4589BEB2663D47798DA0FE755D5B3280",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F51D84ABC247E47BBB5CFCE80789C4452",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FE90DDCC40B4441458576D71580243940"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 백현동 603-3",
@@ -221,7 +352,13 @@
     "place_url": "http://place.map.kakao.com/1496854952",
     "road_address_name": "경기 성남시 분당구 동판교로52번길 9-11",
     "x": "127.11547222268686",
-    "y": "37.387378740642426"
+    "y": "37.387378740642426",
+    "opening_hours": [
+      "월,화,목,금,토  09:00 ~ 18:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMTVfMjg0%2FMDAxNzMxNjc5NzgyMTM5.Dqdp2NKtn5GugvH3Wp9GIR7JWFSrUzXzqGD5-N2Djqkg.oQaq2RgUs31B7bELr74nqUj-3cyKmhlT7tf60vggrvgg.JPEG%2F%25EA%25B0%2595%25EC%2595%2584%25EC%25A7%2580%25EC%25B9%2598%25EA%25B7%25BC%25EB%258B%25A8%25EB%2586%258D%25EC%2596%259118.jpg%3Ftype%3Dw966"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 서현동 272-4",
@@ -235,7 +372,11 @@
     "place_url": "http://place.map.kakao.com/1507971105",
     "road_address_name": "경기 성남시 분당구 황새울로319번길 8-4",
     "x": "127.120791343919",
-    "y": "37.3856290467238"
+    "y": "37.3856290467238",
+    "opening_hours": [],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
   },
   {
     "address_name": "경기 성남시 중원구 여수동 205",
@@ -249,7 +390,19 @@
     "place_url": "http://place.map.kakao.com/1527201271",
     "road_address_name": "경기 성남시 중원구 양현로405번길 5",
     "x": "127.126873345304",
-    "y": "37.417270125739"
+    "y": "37.417270125739",
+    "opening_hours": [
+      "월~금  10:00 ~ 20:00",
+      "토  10:00 ~ 17:30",
+      "월~토 휴게시간  13:00 ~ 14:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F6A1AE02258DD4DE08F0B62D794D538A2",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F020d9dd32caa1c7f6166657c73bcafe9535cc475%3Foriginal",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMjExMDdfNDcg%2FMDAxNjY3ODEwNDc3MjEy.-EmEkVFwUmX8vHQIXUccvU32Cv7u8kyG_kckpBloup0g.yJcYTIm1u4pqRF3mtFO5KFSWgnek3DiBe_aiAl70lWEg.JPEG.oozoov%2F%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8_%25EC%2599%25B8%25EA%25B4%2580.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMTlfMTEx%2FMDAxNzI5MzIzNjA2OTk0.SKuQFZGx1pZ6Kj2xM306T9vbKh1bKFHr-iKkyUX-Pbgg.tGNgVj4KckuHTKCPYyzDJHXE9MRR1jsHrvDyRIEI4X0g.JPEG%2FSE-cbbad8db-6cf6-4e54-86c4-0c13cd6e2c65.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMTlfMzMg%2FMDAxNzI5MzIzMzMxMDk5.sHNqjXSmEnbEKqijmGsh0M8RZCIKp-Apv-ZXOD_WQJog.tX9u0QArT05pWHKokvY-sTNT2LST4UojYvJsUZYqhCMg.JPEG%2FSE-33fe8cc7-cc63-4c73-a056-5c0300e7060d.jpg%3Ftype%3Dw966"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 서현동 88",
@@ -263,7 +416,11 @@
     "place_url": "http://place.map.kakao.com/15783743",
     "road_address_name": "경기 성남시 분당구 중앙공원로39번길 49",
     "x": "127.124703314805",
-    "y": "37.3838896156364"
+    "y": "37.3838896156364",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F75f999ff789161431f7f270b397b2aab96129750%3Foriginal"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 백현동 597-1",
@@ -277,7 +434,11 @@
     "place_url": "http://place.map.kakao.com/1597216808",
     "road_address_name": "경기 성남시 분당구 동판교로52번길 6",
     "x": "127.114225796181",
-    "y": "37.3875187086718"
+    "y": "37.3875187086718",
+    "opening_hours": [],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 운중동 967",
@@ -291,7 +452,19 @@
     "place_url": "http://place.map.kakao.com/17468486",
     "road_address_name": "경기 성남시 분당구 운중로 141",
     "x": "127.07893141402387",
-    "y": "37.391848114762126"
+    "y": "37.391848114762126",
+    "opening_hours": [
+      "월,화,수,금  10:00 ~ 19:00",
+      "목,토  10:00 ~ 17:00",
+      "월~금 휴게시간  12:30 ~ 13:30"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F54418FB9BE784B4A85423D7420B8A688",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F9DD7621DDE6F465DBCE6A10296C4D97E",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F344639E5BEC9445DB92CF603131A8036",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F507A440EDDB04C80847FFFB5D35330D0",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2FB33B5D72C8AC416E975A00C2629D2A13"
+    ]
   },
   {
     "address_name": "경기 성남시 수정구 고등동 575-1",
@@ -305,7 +478,15 @@
     "place_url": "http://place.map.kakao.com/1751974771",
     "road_address_name": "경기 성남시 수정구 고등로1길 6-4",
     "x": "127.094596332331",
-    "y": "37.4293352492701"
+    "y": "37.4293352492701",
+    "opening_hours": [
+      "월~금  10:00 ~ 19:00",
+      "토  10:00 ~ 18:00",
+      "월~토 휴게시간  13:00 ~ 14:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA5MjVfMjUz%2FMDAxNzI3MjM5ODg2NTEx.GgD_SUxJKy_D6k7fx_jmieVzFvfMHmXD5Tdh86pCkr0g.KilFfc5vZeQpvbWi4RmoEfr-xjH_sDU62MhTgWnZpzwg.JPEG%2FKakaoTalk_20231201_135952469.jpg%3Ftype%3Dw966"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 정자동 28-1",
@@ -319,7 +500,21 @@
     "place_url": "http://place.map.kakao.com/1754683352",
     "road_address_name": "경기 성남시 분당구 성남대로 449",
     "x": "127.111716978541",
-    "y": "37.3755248747976"
+    "y": "37.3755248747976",
+    "opening_hours": [
+      "월~금  09:00 ~ 21:00",
+      "토,일  10:00 ~ 18:00",
+      "토,일 휴게시간  12:00 ~ 13:00",
+      "공휴일 10:00 ~ 18:00",
+      "공휴일 12:00 ~ 13:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F63436AAFB9EE4B1D86BA84E37713EEB6",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F0F98D95FAA774EF085BE004FFA557892",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F1B15337492DE42519570D49215AB053B",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F20C6E7DB2971482CB9DB87E9CD654F49",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F7484557CF082433C8DFDB2D142E3A4B5"
+    ]
   },
   {
     "address_name": "경기 성남시 중원구 성남동 4123",
@@ -333,7 +528,11 @@
     "place_url": "http://place.map.kakao.com/18120386",
     "road_address_name": "경기 성남시 중원구 성남대로 1126",
     "x": "127.129837416088",
-    "y": "37.4302793975615"
+    "y": "37.4302793975615",
+    "opening_hours": [],
+    "image_urls": [
+      "https://balm-bucket.s3.ap-northeast-2.amazonaws.com/images/place/place_default.jpg"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 야탑동 537-2",
@@ -347,7 +546,11 @@
     "place_url": "http://place.map.kakao.com/1876791908",
     "road_address_name": "경기 성남시 분당구 야탑로 24",
     "x": "127.121613182636",
-    "y": "37.408570009145"
+    "y": "37.408570009145",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMThfNTQg%2FMDAxNzI5MjM3Njk2NjEy.VLpbPiaTk7uth9vW_YGUHwSFQkEJfa8cfEFptCBh75Ag.-gEAnzk_Uu79agCvddvtMVTdNDzk3Uq0f1Po80Lzsfog.PNG%2Fimage.png%3Ftype%3Dw966"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 정자동 15-7",
@@ -361,7 +564,18 @@
     "place_url": "http://place.map.kakao.com/1909963590",
     "road_address_name": "경기 성남시 분당구 느티로 27",
     "x": "127.10752099039021",
-    "y": "37.36882243302632"
+    "y": "37.36882243302632",
+    "opening_hours": [
+      "월,화,수,금  10:00 ~ 19:00",
+      "토  10:00 ~ 18:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FB59A7AA1A7B94BAF865982B3580C22B0",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F19E94FD4889E455ABF86B937280B982F",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F8B4BB342475A4D5EA7EA75D3086C5509",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F329C0A7F90BE4B26B0BD65D378F238A7",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F7898EC40083340C6B671029395E18983"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 백현동 564-5",
@@ -375,7 +589,19 @@
     "place_url": "http://place.map.kakao.com/2051183495",
     "road_address_name": "경기 성남시 분당구 판교역로14번길 20",
     "x": "127.111440416972",
-    "y": "37.3854778461024"
+    "y": "37.3854778461024",
+    "opening_hours": [
+      "월~토  10:00 ~ 19:00",
+      "월~토 휴게시간  12:30 ~ 14:00",
+      "공휴일 10:00 ~ 17:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F10AC920E0DD44C26BF62743322A421DE",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fplace%2F071220A261C94B268C6DF90EB2DD2D04",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2Fsearchregister_246771592",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FDD2693A8659A45A9B5BB066E08C96733",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FB4AA59D9AEB8429BB7FF419194429436"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 수내동 1-1",
@@ -389,7 +615,18 @@
     "place_url": "http://place.map.kakao.com/220422870",
     "road_address_name": "경기 성남시 분당구 수내로 39",
     "x": "127.117427735811",
-    "y": "37.3814165459362"
+    "y": "37.3814165459362",
+    "opening_hours": [
+      "월,화,목,금,토  10:00 ~ 19:00",
+      "월,화,목,금,토 휴게시간  13:00 ~ 14:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FEB46BD3773E444409BB3AE2A05E9F74C",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F3FE48940412E4566AAA77EDA89BC8565",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FAD02795FBAF54B4BBD858332CE67E7AA",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FB0FD869143D448BDA39ABB0352B3908E",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F26367AFBEFB44D1EB51398A89FBFFAAB"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 야탑동 202-3",
@@ -403,7 +640,14 @@
     "place_url": "http://place.map.kakao.com/22280992",
     "road_address_name": "경기 성남시 분당구 양현로 479",
     "x": "127.13537622003163",
-    "y": "37.416640794476244"
+    "y": "37.416640794476244",
+    "opening_hours": [
+      "월~금  10:00 ~ 20:00",
+      "토  10:00 ~ 17:30"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F4df8a0ec5a610faafadf511869b20d66b95daa3c6c5b2cd511564a9d1e0e30ab"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 정자동 56-1",
@@ -417,7 +661,11 @@
     "place_url": "http://place.map.kakao.com/23771013",
     "road_address_name": "경기 성남시 분당구 백현로156번길 17-2",
     "x": "127.11396865743586",
-    "y": "37.37131493970944"
+    "y": "37.37131493970944",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F4dec8a8d96e0b62c85e7669625fb4445e8eb6ee3f28260691c827dbe8e6b2af5"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 운중동 979",
@@ -431,7 +679,15 @@
     "place_url": "http://place.map.kakao.com/25738072",
     "road_address_name": "경기 성남시 분당구 운중로113번길 12-5",
     "x": "127.076285353744",
-    "y": "37.3927824095294"
+    "y": "37.3927824095294",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2429643C54068DBB27",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2712573754068DBC26",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F274E333554068DBC35",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2524B73C54068DBC2B",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDEwMjNfMjI2%2FMDAxNzI5NjYxMjYwMzg3.VFDO_J3PvHoAU-k0VUFVwgmXKPAmzIKh9WTg3VeZKgAg.vMj0REJul6tZi9q2eS4yVKPKfskni7HlE8-ocQYR2zYg.JPEG%2FKakaoTalk_20240717_102414908_01.jpg%3Ftype%3Dw966"
+    ]
   },
   {
     "address_name": "경기 성남시 수정구 시흥동 42-2",
@@ -445,7 +701,20 @@
     "place_url": "http://place.map.kakao.com/259444994",
     "road_address_name": "경기 성남시 수정구 설개로21번길 7",
     "x": "127.10710551603",
-    "y": "37.421182986238"
+    "y": "37.421182986238",
+    "opening_hours": [
+      "월~금  09:00 ~ 19:00",
+      "토  09:00 ~ 18:00",
+      "일  10:00 ~ 15:00",
+      "매일 휴게시간  13:00 ~ 14:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FE2066DE76F49482D85DEA4D2CA67C01F",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F94ADD410AED84F7FB54B6A773A593625",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FF2F9F67FB8964C2B8A367F2F09C45D55",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F45fc2522506a061d897d53983f498f1145b16bdd45160afde631ee2966ba2922",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2Fdc5d23d05daa710cfacd150f910df2c4e2a3df55ade0a63d304582515550d262"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 판교동 497",
@@ -459,7 +728,21 @@
     "place_url": "http://place.map.kakao.com/26930692",
     "road_address_name": "경기 성남시 분당구 서판교로 160",
     "x": "127.09471671321634",
-    "y": "37.40022323459735"
+    "y": "37.40022323459735",
+    "opening_hours": [
+      "화~금  10:00 ~ 19:30",
+      "토  10:00 ~ 18:00",
+      "화~토 휴게시간  12:00 ~ 13:00",
+      "공휴일 10:00 ~ 16:00",
+      "공휴일 12:00 ~ 13:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2147034355C1AD521B",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA1MDVfMjMx%2FMDAxNzE0ODg4NTQxMjQz.tVdhYtYV2sLSAjR_iCOu5EsJ0wdwbFK1dV6cj4TfGRYg.mKx1UNZCMaWo9xaR0oWjnTBPBzPIjEmbr5EQHknJfRkg.JPEG%2FSE-33640481-115f-48fc-b9e5-d532a4737a4a.jpg%3Ftype%3Dw773",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA1MDVfMjUw%2FMDAxNzE0ODg4MzU3NDE0.Q7uzWViTQGc36AflxpugtDOI1VyLB1dJfBHuNbP8fwEg.6rvrHE6PTm8HZ7o_bgkb1QvpbwM9B5usz0wYktFdslwg.JPEG%2FKakaoTalk_20240505_144100985.jpg%3Ftype%3Dw386",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA1MDVfMjE4%2FMDAxNzE0ODg3OTU1ODY2.oRFWZ2b9GYY0_IrtTQtsy5LiIvkep_DdC-AIviKdBQ4g.s9F-6yzSs7cdpNNqROUQYrzQweWVdmPrCT2VdaEMV6Mg.JPEG%2FKakaoTalk_20240505_144022556_01.jpg%3Ftype%3Dw386",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA1MDVfMjU0%2FMDAxNzE0ODg3OTU1ODkz.ZvAj7qmJnDEUX-ZV1dpD9Id7DRbB-CMA5iNlnMhvsScg.iSKW_rZvlnTa82bsTMIxKo4M9MG6-BWA3pdVmkgYd6Ig.JPEG%2FKakaoTalk_20240505_144022556.jpg%3Ftype%3Dw386"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 판교동 577-3",
@@ -473,7 +756,14 @@
     "place_url": "http://place.map.kakao.com/27497791",
     "road_address_name": "경기 성남시 분당구 서판교로 36",
     "x": "127.09786461801",
-    "y": "37.390016599149"
+    "y": "37.390016599149",
+    "opening_hours": [
+      "월,화,수,금,토  10:00 ~ 19:00",
+      "일  10:00 ~ 15:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMTZfMjEz%2FMDAxNzMxNzQ4NzgyOTM5.fh2plYHQn504zxJSAr6SQZvoxmTargYdEB7ifxqWwEMg.d8lbcDndZUwPI2Q_meOXXtb7lk-747SpxJUcvTKuQTEg.JPEG%2FSE-0b13c8a0-cb34-4bf7-92c1-e88c8f35bf4e.jpg%3Ftype%3Dw773"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 정자동 15-2",
@@ -487,7 +777,18 @@
     "place_url": "http://place.map.kakao.com/388711032",
     "road_address_name": "경기 성남시 분당구 성남대로 385",
     "x": "127.107512181379",
-    "y": "37.3705605194493"
+    "y": "37.3705605194493",
+    "opening_hours": [
+      "매일  00:00 ~ 24:00",
+      "공휴일 00:00 ~ 24:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F217EB54B57236D2D0B",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2766FD4A573EB0FB0E",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F26197F4D573EB10017",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2423C649573EB0F31F",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fcfile%2F2515A93A573EB0F740"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 운중동 940",
@@ -501,7 +802,15 @@
     "place_url": "http://place.map.kakao.com/424927623",
     "road_address_name": "경기 성남시 분당구 운중로 142",
     "x": "127.078831384549",
-    "y": "37.3912237729207"
+    "y": "37.3912237729207",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FEBE1C484D8464E0B8B69F8CBDB99DF2A",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2Fcc4c5fdb0b83010d391d007d001f738b958a653b%3Foriginal",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F91ddf806bb64b8dd825dc2f95fbb2a78f07f4be2%3Foriginal",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMThfMTE1%2FMDAxNzMxODU4MTc3OTQx.yPqqVFbHM7d5ZC_URR4MOEkvy_CMCq3otpRuEpPrgvwg.e-ylrpfP8kf0lNKzeTz_1kaVVh2gAA-6r2-Iq9h3RCAg.JPEG%2FSE-EA7B322B-EADC-4B19-A161-AA825B5D0223.jpg%3Ftype%3Dw966",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDExMThfODYg%2FMDAxNzMxODU4MTc3MDQ3.qCATNQe39wDI3hQW1NkqUpEKVBnrCzFxi9FJ0g_hRmQg.g2AWo3DQQ2_vhycYD7fjXE8-eMMxP8RWvUlU-kyJuxUg.JPEG%2FSE-0A3A09E7-F9FE-47EE-9A41-3044060EEF37.jpg%3Ftype%3Dw966"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 판교동 619-9",
@@ -515,7 +824,14 @@
     "place_url": "http://place.map.kakao.com/439336362",
     "road_address_name": "경기 성남시 분당구 판교공원로5길 15",
     "x": "127.08981999431987",
-    "y": "37.3900950649103"
+    "y": "37.3900950649103",
+    "opening_hours": [
+      "월,화,금,토,일  10:00 ~ 19:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FBE68865FAA6546A2AED9E1E3314A48DC",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fblogfiles.pstatic.net%2FMjAyNDA4MDFfMTIg%2FMDAxNzIyNDgyNDg1NDY4.7FbcQ8z9aUerZ7HAgtm6-h80VKT2y4ni2tZE3mU_SUog.ySyd8Y0_48qj6L_vFfYAajlMU4HZ9SWq0uxqBY30P4kg.PNG%2FLOGO_color.ai2.png%3Ftype%3Dw1"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 판교동 590",
@@ -529,7 +845,11 @@
     "place_url": "http://place.map.kakao.com/634393220",
     "road_address_name": "경기 성남시 분당구 운중로 255",
     "x": "127.091422773619",
-    "y": "37.3894811412393"
+    "y": "37.3894811412393",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F1e1340bd6ceff77c8a3165e1c26948ea8820e413%3Foriginal"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 야탑동 513-3",
@@ -543,7 +863,11 @@
     "place_url": "http://place.map.kakao.com/806567534",
     "road_address_name": "경기 성남시 분당구 성남대로 884-9",
     "x": "127.12926654259668",
-    "y": "37.40907276731513"
+    "y": "37.40907276731513",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F13edc02051772da7b3d2346ee1946e7efd8816f1%3Foriginal"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 서현동 272-5",
@@ -557,7 +881,15 @@
     "place_url": "http://place.map.kakao.com/8146003",
     "road_address_name": "경기 성남시 분당구 황새울로319번길 8-6",
     "x": "127.121156122113",
-    "y": "37.385662912447"
+    "y": "37.385662912447",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F6D5BC7672F624A5E8AE4A34DD8703E3D",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2FA74B8B15A4C047D7B45B6F7EB3A91EB7",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F903820ADDDCA4D10AA9BAAF7A136E84C",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F5FBEA4A0BC36458D924175C857335851",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fmystore%2F0AAC526EFAD54020949FBD422944AA43"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 백현동 530",
@@ -571,7 +903,19 @@
     "place_url": "http://place.map.kakao.com/842688360",
     "road_address_name": "경기 성남시 분당구 판교역로 145",
     "x": "127.10867095668075",
-    "y": "37.3935797154207"
+    "y": "37.3935797154207",
+    "opening_hours": [
+      "화~일  09:00 ~ 22:00",
+      "월  09:00 ~ 19:00",
+      "매일 휴게시간  13:00 ~ 14:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2FFEEBCE69F31840EDBE9CD3D99560C0BA",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2F88DA4D7B3C7641C4B303BACD154E30F8",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA1MDhfMjk2%2FMDAxNzE1MTQ5Njc3NDM2.JvekyNpRyrR8gAOBr6IEU3DEiJzXOJHmHpxsZFFhxb8g.4wV3CUPCNKoY47Ks90R4TZkkyXTU4G-yqNhxF__Ku1Eg.JPEG%2FFacetune_07-05-2024-10-41-24.jpg%3Ftype%3Dw773",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA1MDhfNDcg%2FMDAxNzE1MTM5NDAzOTk4.nWNgjjNY93IWW9oQAscBxYLa915MaGhyGvw48jYpX60g.DPrnCYSDXkTQtzNZpzOT5TJgWDbDzier86QHC05L7jsg.JPEG%2FIMG_8420.jpg%3Ftype%3Dw773",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA1MDhfMjY1%2FMDAxNzE1MTM5MzgyOTQy.JdaZW_h-xss5ypcMjrbOezRkSUbVLjBSeFpdbtJvtRcg.rX7FYmu35JFtw9d4SKIIHpxOKL3Sw5KkRLIkEoVtF7Yg.JPEG%2FIMG_8425.jpg%3Ftype%3Dw773"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 야탑동 367-6",
@@ -585,7 +929,11 @@
     "place_url": "http://place.map.kakao.com/8473348",
     "road_address_name": "경기 성남시 분당구 야탑로 103",
     "x": "127.13028705473256",
-    "y": "37.41004204498168"
+    "y": "37.41004204498168",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2Fbf49336326f9f81c2220a633d729c7be3d183681%3Foriginal"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 운중동 1018-2",
@@ -599,7 +947,16 @@
     "place_url": "http://place.map.kakao.com/84878384",
     "road_address_name": "경기 성남시 분당구 운중로 172",
     "x": "127.08231153418",
-    "y": "37.3910141665365"
+    "y": "37.3910141665365",
+    "opening_hours": [
+      "월,수,목,금,토,일  10:00 ~ 19:00",
+      "월,수,목,금,토,일 휴게시간  12:00 ~ 13:00",
+      "공휴일 10:00 ~ 19:00",
+      "공휴일 12:00 ~ 13:00"
+    ],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA3MjlfMjAz%2FMDAxNzIyMjU2MzAzMDMw.-CvKUS7KYOWCwdUKli6J_DZkPICbNVPWnbWS9RQO8jog.DaQ96SISY_kltIukQdUIDq24lzDIPI2_-0zU6V6AaDwg.JPEG%2FSE-017B8F22-49A5-4BC8-BEE9-DDE796A75966.jpg%3Ftype%3Dw773"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 이매동 120-6",
@@ -613,7 +970,11 @@
     "place_url": "http://place.map.kakao.com/862920720",
     "road_address_name": "경기 성남시 분당구 양현로94번길 19",
     "x": "127.126219537064",
-    "y": "37.3911646666972"
+    "y": "37.3911646666972",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyNDA3MDJfMjU1%2FMDAxNzE5ODk0OTMyMzY5.RkVdPGm6kA8Cr26NsmCX8IBam_tUlOF7JaUjtHnB4q4g.PkfZ73fjLW905mcJ2nDLMw_uIJvCllmoCqmtrpOU1kgg.PNG%2F7.png%3Ftype%3Dw966"
+    ]
   },
   {
     "address_name": "경기 성남시 분당구 서현동 80-1",
@@ -627,6 +988,14 @@
     "place_url": "http://place.map.kakao.com/900494364",
     "road_address_name": "경기 성남시 분당구 서현로255번길 1",
     "x": "127.129677215345",
-    "y": "37.384543815147"
+    "y": "37.384543815147",
+    "opening_hours": [],
+    "image_urls": [
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FD164853A2EC943828C00D3BF2513DC4E",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2FFE597BCD6510420CB2D7BAB6CE549D23",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F20C10A6CDCFE4C6FAD6A2A75EFC2EA43",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F229578AC9FA94D039E1F950329DE0A57",
+      "https://img1.kakaocdn.net/cthumb/local/R0x420.q50/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocalfiy%2F428BADF9153F4A289DBA96AA3515F86F"
+    ]
   }
 ]
