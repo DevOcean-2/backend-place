@@ -66,6 +66,7 @@ def list_places(list_req: PlaceList) -> List[PlaceResponse]:
                 category=place["category"],
                 distance=distance,
                 image_urls=place.get("image_urls", []),
+                opening_hours=place.get("opening_hours", []),
                 phone_number=place.get("phone_number"),
                 website_url=place.get("website_url")
             ))
@@ -162,6 +163,7 @@ def list_places_by_keyword(list_req: PlaceKeywordList) -> List[PlaceResponse]:
                 category=place["category"],
                 distance=distance,
                 image_urls=place.get("image_urls", []),
+                opening_hours=place.get("opening_hours", []),
                 phone_number=place.get("phone_number"),
                 website_url=place.get("website_url")
             ))
