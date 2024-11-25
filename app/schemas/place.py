@@ -35,25 +35,25 @@ class DailyOpeningHours(BaseModel):
     close_time: str = Field(..., example="18:00")
     is_open: Optional[bool] = Field(None, example=True)
 
-
-class BusinessHours(BaseModel):
-    """
-    일주일 영업 시간 모델
-    """
-    mon: Optional[DailyOpeningHours] \
-        = Field(None, examples=[{"open_time": "09:00", "close_time": "18:00", "is_open": True}])
-    tue: Optional[DailyOpeningHours] \
-        = Field(None, examples=[{"open_time": "09:00", "close_time": "18:00", "is_open": True}])
-    wed: Optional[DailyOpeningHours] \
-        = Field(None, examples=[{"open_time": "09:00", "close_time": "18:00", "is_open": True}])
-    thu: Optional[DailyOpeningHours] \
-        = Field(None, examples=[{"open_time": "09:00", "close_time": "18:00", "is_open": True}])
-    fri: Optional[DailyOpeningHours] \
-        = Field(None, examples=[{"open_time": "09:00", "close_time": "18:00", "is_open": True}])
-    sat: Optional[DailyOpeningHours] \
-        = Field(None, examples=[{"open_time": "09:00", "close_time": "14:00", "is_open": True}])
-    sun: Optional[DailyOpeningHours] \
-        = Field(None, examples=[{"open_time": "휴무", "close_time": "휴무", "is_open": False}])
+# 현재 가져오는 데이터에서 분류 불가.
+# class BusinessHours(BaseModel):
+#     """
+#     일주일 영업 시간 모델
+#     """
+#     mon: Optional[DailyOpeningHours] \
+#         = Field(None, examples=[{"open_time": "09:00", "close_time": "18:00", "is_open": True}])
+#     tue: Optional[DailyOpeningHours] \
+#         = Field(None, examples=[{"open_time": "09:00", "close_time": "18:00", "is_open": True}])
+#     wed: Optional[DailyOpeningHours] \
+#         = Field(None, examples=[{"open_time": "09:00", "close_time": "18:00", "is_open": True}])
+#     thu: Optional[DailyOpeningHours] \
+#         = Field(None, examples=[{"open_time": "09:00", "close_time": "18:00", "is_open": True}])
+#     fri: Optional[DailyOpeningHours] \
+#         = Field(None, examples=[{"open_time": "09:00", "close_time": "18:00", "is_open": True}])
+#     sat: Optional[DailyOpeningHours] \
+#         = Field(None, examples=[{"open_time": "09:00", "close_time": "14:00", "is_open": True}])
+#     sun: Optional[DailyOpeningHours] \
+#         = Field(None, examples=[{"open_time": "휴무", "close_time": "휴무", "is_open": False}])
 
 
 class PlaceList(BaseModel):
@@ -91,6 +91,13 @@ class PlaceResponse(BaseModel):
             "https://test.s3.amazonaws.com/test/test.jpg",
             "https://test.s3.amazonaws.com/test/test2.jpg",
             "https://test.s3.amazonaws.com/test/test3.jpg",])
-    opening_hours: Optional[BusinessHours] = Field(None)
+    opening_hours: Optional[List[str]] = Field(
+        None,
+        example=[
+            "월~금 08:00 ~ 19:00",
+            "토,일 11:00 ~ 19:00",
+            "공휴일 11:00 ~ 19:00"
+        ]
+    )
     phone_number: Optional[str] = Field(None, example="010-1234-5678")
     website_url: Optional[str] = Field(None, example="http://place.map.kakao.com/1459590315")
